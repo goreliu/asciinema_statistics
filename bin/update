@@ -4,29 +4,73 @@ cd ${0:h}/..
 
 export LANG=C
 
-sort data/all.txt > last.txt
+update_all() {
+    # update data/all.txt
 
-for i ({1..1758}) {
-    echo process page $i ...
+    sort data/all.txt > last.txt
 
-    curl "https://asciinema.org/explore/public?order=date&page=$i" 2>/dev/null \
-        | grep 'href="/a/' | sed 's|.*href="/a/||g; s|".*||g' \
-        | sort -u > append.txt
+    for i ({1..1758}) {
+        echo "[all] process page $i ..."
 
-    touch append_old.txt
+        curl "https://asciinema.org/explore/public?order=date&page=$i" 2>/dev/null \
+            | grep 'href="/a/' | sed 's|.*href="/a/||g; s|".*||g' \
+            | sort -u > append.txt
 
-    if [[ -n $(comm -12 append.txt last.txt) ]] {
-        echo -n "$(cat last.txt | wc -l) -> "
+        touch append_old.txt
 
-        comm -23 append.txt last.txt | sort -n >> data/all.txt
-        cat append_old.txt | sort -n >> data/all.txt
+        if [[ -n $(comm -12 append.txt last.txt) ]] {
+            echo -n "$(cat last.txt | wc -l) -> "
 
-        cat last.txt | wc -l
-        break
-    } else {
-        cat append_old.txt >> append.txt
-        mv append.txt append_old.txt
+            comm -23 append.txt last.txt | sort -n >> data/all.txt
+            cat append_old.txt | sort -n >> data/all.txt
+
+            cat last.txt | wc -l
+            break
+        } else {
+            cat append_old.txt >> append.txt
+            mv append.txt append_old.txt
+        }
     }
+
+    echo '[done]'
+
+    rm append*.txt last.txt
 }
 
-rm append*.txt last.txt
+update_statistics() {
+    # update data/os.txt
+
+    local begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d' ')$" data/all.txt)%:*}
+
+    for i ($(sed -n "$((begin + 1)),\$p" data/all.txt)) {
+        echo "[statistics] process cast $i ..."
+        curl "https://asciinema.org/a/$i" 2> /dev/null > page.html
+
+        local os=$(grep -F '<code>OS=' page.html | sed 's/^.*=//g; s/<.*$//g')
+        local shell=$(grep -F '<code>SHELL=' page.html | sed 's/^.*=//g; s/<.*$//g')
+        local term=$(grep -F '<code>TERM=' page.html | sed 's/^.*=//g; s/<.*$//g')
+
+        rm page.html
+
+        if [[ -n $os && -n $shell && -n term ]] {
+            echo $i $os >> data/os.txt
+            echo $i $shell >> data/shell.txt
+            echo $i $term >> data/term.txt
+        } else {
+            echo "error: OS:|$os| SHELL:|$shell| TERM:$term"
+            return 1
+        }
+    }
+
+    echo '[done]'
+
+    # read SHELL and TERM from casts
+    #
+    # zgrep -o '"SHELL":.*' casts/*.gz \
+    #     | sed 's|.cast.gz:"SHELL".*/| |g; s|".*$||g; s|files/||g' | sort -n > shell.txt
+    # zgrep -o '"TERM":.*' casts/*.gz \
+    #     | sed 's|.cast.gz:"TERM": *"| |g; s|".*$||g; s|files/||g' | sort -n > term.txt
+}
+
+update_all
+update_statistics
