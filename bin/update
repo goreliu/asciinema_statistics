@@ -57,7 +57,7 @@ update_statistics() {
             echo $i $shell >> data/shell.txt
             echo $i $term >> data/term.txt
         } else {
-            echo "error: OS:|$os| SHELL:|$shell| TERM:$term"
+            echo "error: OS:|$os| SHELL:|$shell| TERM:|$term|"
             return 1
         }
     }
