@@ -38,7 +38,7 @@ update_all() {
 }
 
 update_statistics() {
-    # update data/os.txt
+    # update data/os.txt data/shell.txt data/term.txt
 
     local begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d' ')$" data/all.txt)%:*}
 
