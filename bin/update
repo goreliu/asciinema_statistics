@@ -1,0 +1,32 @@
+#!/bin/zsh
+
+cd ${0:h}/..
+
+export LANG=C
+
+sort data/all.txt > last.txt
+
+for i ({1..1758}) {
+    echo process page $i ...
+
+    curl "https://asciinema.org/explore/public?order=date&page=$i" 2>/dev/null \
+        | grep 'href="/a/' | sed 's|.*href="/a/||g; s|".*||g' \
+        | sort -u > append.txt
+
+    touch append_old.txt
+
+    if [[ -n $(comm -12 append.txt last.txt) ]] {
+        echo -n "$(cat last.txt | wc -l) -> "
+
+        comm -23 append.txt last.txt | sort -n >> data/all.txt
+        cat append_old.txt | sort -n >> data/all.txt
+
+        cat last.txt | wc -l
+        break
+    } else {
+        cat append_old.txt >> append.txt
+        mv append.txt append_old.txt
+    }
+}
+
+rm append*.txt last.txt
