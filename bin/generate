@@ -67,7 +67,7 @@ template='''
         </tr>
 '''
 
-printf $before "$(date +'%Y-%m-%d %H:%M:%S')" > index.html
+printf $before "$(date -u +'%Y-%m-%d %H:%M:%S') UTC" > index.html
 
 index=0
 summary | while {read line} {
