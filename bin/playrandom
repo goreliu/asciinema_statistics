@@ -1,0 +1,16 @@
+#!/bin/zsh
+
+cd ${0:h}/..
+
+id=$(shuf -n 1 data/all.txt)
+file=casts/$id.cast.gz
+
+if [[ -f $file ]] {
+	echo playing $file ...
+	zcat $file | asciinema play -
+	return
+} else {
+	url="https://asciinema.org/a/$id"
+	echo playing $url ...
+	asciinema play $url
+}
