@@ -2613,7 +2613,7 @@
 11311@zsh
 11313@zsh
 11314@zsh
-11315@zsh -i
+11315@zsh
 11320@zsh
 11322@bash
 11329@bash
@@ -7275,7 +7275,8 @@
 39444@bash
 39456@bash
 39465@bash
-39492@C:\Windows\system3239513 bash
+39492@cmd.exe
+39513@bash
 39537@bash
 39546@zsh
 39549@bash
@@ -10929,7 +10930,7 @@
 107708@bash
 107717@bash
 107719@zsh
-107720@fizsh
+107720@zsh
 107723@bash
 107724@bash
 107732@zsh
@@ -14145,7 +14146,8 @@
 153753@bash
 153764@bash
 153772@bash
-153796@C:\WINDOWS\system32153843 bash
+153796@cmd.exe
+153843@bash
 153864@bash
 153876@bash
 153879@zsh
@@ -14173,7 +14175,8 @@
 154228@bash
 154236@bash
 154243@ksh
-154250@C:\WINDOWS\system32154262 zsh
+154250@cmd.exe
+154262@zsh
 154266@bash
 154300@bash
 154305@zsh
@@ -15965,7 +15968,9 @@
 180819@bash
 180843@bash
 180846@bash
-180873@C:\WINDOWS\system32180874 C:\WINDOWS\system32180894 bash
+180873@cmd.exe
+180874@cmd.exe
+180894@bash
 180895@bash
 180913@bash
 180928@zsh
@@ -16211,7 +16216,13 @@
 183388@bash
 183389@bash
 183390@bash
-183436@C:\WINDOWS\system32183439 C:\WINDOWS\system32183462 C:\WINDOWS\system32183463 C:\WINDOWS\system32183465 C:\WINDOWS\system32183467 C:\WINDOWS\system32183530 bash
+183436@cmd.exe
+183439@cmd.exe
+183462@cmd.exe
+183463@cmd.exe
+183465@cmd.exe
+183467@cmd.exe
+183530@bash
 183587@zsh
 183593@bash
 183620@bash
@@ -16235,16 +16246,31 @@
 183724@bash
 183729@zsh
 183730@bash
-183788@C:\WINDOWS\system32183789 C:\WINDOWS\system32183790 C:\WINDOWS\system32183791 C:\WINDOWS\system32183793 C:\WINDOWS\system32183795 C:\WINDOWS\system32183796 C:\WINDOWS\system32183797 C:\WINDOWS\system32183807 bash
+183788@cmd.exe
+183789@cmd.exe
+183790@cmd.exe
+183791@cmd.exe
+183793@cmd.exe
+183795@cmd.exe
+183796@cmd.exe
+183797@cmd.exe
+183807@bash
 183808@bash
-183811@C:\WINDOWS\system32183814 bash
+183811@cmd.exe
+183814@bash
 183827@bash
 183831@fish
 183832@zsh
-183834@C:\WINDOWS\system32183838 C:\WINDOWS\system32183840 C:\WINDOWS\system32183846 C:\WINDOWS\system32183873 bash
+183834@cmd.exe
+183838@cmd.exe
+183840@cmd.exe
+183846@cmd.exe
+183873@bash
 183874@bash
 183875@bash
-183879@C:\WINDOWS\system32183880 C:\WINDOWS\system32183882 bash
+183879@cmd.exe
+183880@cmd.exe
+183882@bash
 183890@bash
 183906@fish
 183912@bash
@@ -16268,14 +16294,19 @@
 184331@zsh
 184332@zsh
 184359@bash
-184360@C:\WINDOWS\system32184361 C:\WINDOWS\system32184363 C:\WINDOWS\system32184364 bash
+184360@cmd.exe
+184361@cmd.exe
+184363@cmd.exe
+184364@bash
 184410@bash
 184411@bash
 184449@bash
 184469@zsh
 184476@sh
 184574@zsh
-184606@C:\WINDOWS\system32184607 C:\WINDOWS\system32184631 bash
+184606@cmd.exe
+184607@cmd.exe
+184631@bash
 184703@zsh
 184718@bash
 184727@zsh

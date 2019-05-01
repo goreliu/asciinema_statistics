@@ -3,69 +3,38 @@
 cd ${0:h}/..
 
 summary() {
-    local files=(os.txt shell.txt term.txt)
+    local files=(os.txt shell.txt term.txt user.txt)
+    local all=$(cat data/$files[1] | wc -l)
 
     for file ($files) {
-        local -A tmp
-        local -a tmpr
-        local all=0
+        local -A tmp_map
+        local -a tmp_array
 
         while {read line} {
             name=${line#*@}
             
-            [[ $file == os.txt ]] && {
-                case $name {
-                    (*linux)
-                    name='Linux'
-                    ;;
+            (($+tmp_map[$name])) || tmp_map[$name]=0
 
-                    (*macos|*macOS)
-                    name='macOS'
-                    ;;
-
-                    (freebsd)
-                    name='FreeBSD'
-                    ;;
-
-                    (*windows)
-                    name='Windows'
-                    ;;
-
-                    (android)
-                    name='Android'
-                    ;;
-                }
-            }
-
-            [[ $file == shell.txt ]] && {
-                case $name {
-                    (*bash*)
-                    name='bash'
-                    ;;
-
-                    (*zsh*)
-                    name='zsh'
-                    ;;
-                }
-            }
-
-            (($+tmp[$name])) || tmp[$name]=0
-
-            ((tmp[$name]++, all++))
+            ((tmp_map[$name]++))
         } < data/$file
 
-        for k v (${(kv)tmp}) {
-            tmpr+=($v@$k)
+        for k v (${(kv)tmp_map}) {
+            tmp_array+=($v@$k)
         }
 
-        for i (${(On)tmpr}) {
+        local index=0
+        for i (${(On)tmp_array}) {
             local number=${i%@*}
             local item=${i#*@}
 
             echo "$item <br> $number / $all <br> $(printf '%.3f' $((100.0 * number / all)))%"
+
+            if ((index++ > 100)) {
+                break
+            }
         } > $file
 
-        unset tmp tmpr
+        unset tmp_map tmp_array
     }
 
     paste -d '@' $files
@@ -90,6 +59,7 @@ before='''<!doctype html>
           <th scope="col">OS</th>
           <th scope="col">SHELL</th>
           <th scope="col">TERM</th>
+          <th scope="col">USER</th>
         </tr>
       </thead>
       <tbody>'''
@@ -104,6 +74,7 @@ after='''
 template='''
         <tr>
           <th scope="row">%s</th>
+          <td>%s</td>
           <td>%s</td>
           <td>%s</td>
           <td>%s</td>

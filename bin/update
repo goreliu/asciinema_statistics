@@ -50,13 +50,51 @@ update_statistics() {
         [[ -f pages/$i ]] || curl "https://asciinema.org/a/$i" -o pages/$i 2> /dev/null
 
         local os=$(grep -F '<code>OS=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
-        local shell=$(grep -F '<code>SHELL=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
+        local shell=$(grep -F '<code>SHELL=' pages/$i | sed 's/^.*=//g; s/<.*$//g; s/\\//g')
         local term=$(grep -F '<code>TERM=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
+        local user=$(grep -o 'player author="[^"]*"' pages/$i | cut -f2 -d'"')
+
+        case $os {
+            (*linux)
+            os='Linux'
+            ;;
+
+            (*macos|*macOS)
+            os='macOS'
+            ;;
+
+            (freebsd)
+            os='FreeBSD'
+            ;;
+
+            (*windows)
+            os='Windows'
+            ;;
+
+            (android)
+            os='Android'
+            ;;
+        }
+
+        case $shell {
+            (*bash*)
+            shell='bash'
+            ;;
+
+            (*zsh*)
+            shell='zsh'
+            ;;
+
+            (*cmd.exe*)
+            shell='cmd.exe'
+            ;;
+        }
 
         if [[ -n $os || -n $shell || -n $term ]] {
-            echo $i@${os:-unknown} >> data/os.txt
+            echo $i@${os:-Unknown} >> data/os.txt
             echo $i@${shell:-unknown} >> data/shell.txt
             echo $i@${term:-unknown} >> data/term.txt
+            echo $i@${user:-unknown} >> data/user.txt
         } else {
             echo error
             return 1
@@ -64,13 +102,6 @@ update_statistics() {
     }
 
     echo '[statistics][done]'
-
-    # read SHELL and TERM from casts
-    #
-    # zgrep -o '"SHELL":.*' casts/*.gz \
-    #     | sed 's|.cast.gz:"SHELL".*/| |g; s|".*$||g; s|files/||g' | sort -n > shell.txt
-    # zgrep -o '"TERM":.*' casts/*.gz \
-    #     | sed 's|.cast.gz:"TERM": *"| |g; s|".*$||g; s|files/||g' | sort -n > term.txt
 }
 
 update_all
