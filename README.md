@@ -24,6 +24,8 @@ saved data to /home/goreliu/asciinema_statistics/data/asciinema.db
 $ sqlite3 data/asciinema.db
 SQLite version 3.28.0 2019-04-16 19:49:53
 Enter ".help" for usage hints.
+sqlite> .schema data
+CREATE TABLE data (id int, os varchar(20), shell varchar(20), term varchar(50), user varchar(50));
 sqlite> select count(*) from data where os = "Linux" and shell = "zsh";
 3449
 sqlite> select count(*) from data where os = "macOS" and shell = "zsh";
