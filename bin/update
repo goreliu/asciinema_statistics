@@ -11,7 +11,8 @@ update_list() {
 
     echo '[list][begin]'
 
-    for i ({1..1758}) {
+    # max page number in https://asciinema.org/explore/public
+    for i ({1..1750}) {
         echo "process page $i ..."
 
         curl "https://asciinema.org/explore/public?order=date&page=$i" 2>/dev/null \
