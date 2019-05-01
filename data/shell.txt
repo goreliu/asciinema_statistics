@@ -21103,7 +21103,6 @@
 243665@zsh
 243670@unknown
 243691@bash
-243694@unknown
 243668@fish
 243702@fish
 243713@unknown
