@@ -50,7 +50,10 @@ local before='''<!doctype html>
     <title>asciinema statistics</title>
   </head>
   <body lang="en" style="background-color:#000000;">
-    <h1 align="center" style="color:#FFFFFF;">asciinema statistics (%s)</h1>
+    <h1 align="center" style="color:#FFFFFF;">asciinema statistics</h1>
+    <h6 align="center" style="color:#DDDDDD;">
+      (data from <a href="https://asciinema.org/explore/public">asciinema</a>, %s)</a>
+    </h6>
 
     <table class="table table-dark">
       <thead>
