@@ -3,12 +3,11 @@
 cd ${0:h}
 
 while {true} {
+    git pull
     ./update
 
     [[ -n $(git diff) ]] && {
-        git pull \
-            && git commit -am "$(date -u +'%Y-%m-%d %H:%M:%S') UTC" \
-            && git push
+        git commit -am "$(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push
     }
 
     sleep 600
