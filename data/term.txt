@@ -21111,3 +21111,4 @@
 243733@xterm
 243736@xterm-256color
 243737@xterm-256color
+243741@xterm-256color
