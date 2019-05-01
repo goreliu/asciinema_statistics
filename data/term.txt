@@ -21096,3 +21096,6 @@
 243538@xterm-256color
 243546@xterm-256color
 243551@xterm-256color
+243588@xterm-256color
+243628@xterm-256color
+243641@xterm-256color

@@ -24,7 +24,7 @@ update_all() {
             comm -23 append.txt last.txt | sort -n >> data/all.txt
             cat append_old.txt | sort -n >> data/all.txt
 
-            cat last.txt | wc -l
+            cat data/all.txt | wc -l
             break
         } else {
             cat append_old.txt >> append.txt
@@ -32,7 +32,7 @@ update_all() {
         }
     }
 
-    echo '[done]'
+    echo '[all][done]'
 
     rm append*.txt last.txt
 }
@@ -63,7 +63,7 @@ update_statistics() {
         }
     }
 
-    echo '[done]'
+    echo '[statistics][done]'
 
     # read SHELL and TERM from casts
     #
@@ -73,5 +73,5 @@ update_statistics() {
     #     | sed 's|.cast.gz:"TERM": *"| |g; s|".*$||g; s|files/||g' | sort -n > term.txt
 }
 
-#update_all
+update_all
 update_statistics
