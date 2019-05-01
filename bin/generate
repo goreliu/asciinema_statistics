@@ -80,7 +80,6 @@ local before='''<!doctype html>
 local after='''
       </tbody>
     </table>
-
   </body>
 </html>'''
 
