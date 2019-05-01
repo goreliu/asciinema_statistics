@@ -21110,3 +21110,4 @@
 243718@xterm-256color
 243733@xterm
 243736@xterm-256color
+243737@xterm-256color
