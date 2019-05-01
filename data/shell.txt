@@ -21106,3 +21106,5 @@
 243694@unknown
 243668@fish
 243702@fish
+243713@unknown
+243714@zsh
