@@ -113,6 +113,13 @@ update_statistics() {
             return 1
         }
 
+        [[ -d casts && ! -f casts/$i.cast.gz ]] && {
+            curl "https://asciinema.org/a/$i.cast?dl=1" -o casts/$i.cast.gz 2> /dev/null || {
+                echo error
+                return 1
+            }
+        }
+
         ret=2
     }
 
