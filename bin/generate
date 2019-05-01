@@ -11,7 +11,7 @@ summary() {
         local -a tmp_array
 
         while {read line} {
-            name=${line#*@}
+            local name=${line#*@}
             
             (($+tmp_map[$name])) || tmp_map[$name]=0
 
@@ -41,7 +41,7 @@ summary() {
     rm $files
 }
 
-before='''<!doctype html>
+local before='''<!doctype html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -64,14 +64,14 @@ before='''<!doctype html>
       </thead>
       <tbody>'''
 
-after='''
+local after='''
       </tbody>
     </table>
 
   </body>
 </html>'''
 
-template='''
+local template='''
         <tr>
           <th scope="row">%s</th>
           <td>%s</td>
@@ -83,7 +83,7 @@ template='''
 
 printf $before "$(date -u +'%Y-%m-%d %H:%M:%S') UTC" > index.html
 
-index=0
+local index=0
 summary | while {read line} {
     printf $template $((++index)) "${(@s/@/)line}" >> index.html
 }
