@@ -4,13 +4,15 @@ cd ${0:h}/..
 
 export LANG=C
 
-update_all() {
-    # update data/all.txt
+update_list() {
+    # update data/list.txt
 
-    sort data/all.txt > last.txt
+    sort data/list.txt > last.txt
+
+    echo '[list][begin]'
 
     for i ({1..1758}) {
-        echo "[all] process page $i ..."
+        echo "process page $i ..."
 
         curl "https://asciinema.org/explore/public?order=date&page=$i" 2>/dev/null \
             | grep 'href="/a/' | sed 's|.*href="/a/||g; s|".*||g' \
@@ -21,10 +23,10 @@ update_all() {
         if [[ -n $(comm -12 append.txt last.txt) ]] {
             echo -n "$(cat last.txt | wc -l) -> "
 
-            comm -23 append.txt last.txt | sort -n >> data/all.txt
-            cat append_old.txt | sort -n >> data/all.txt
+            comm -23 append.txt last.txt | sort -n >> data/list.txt
+            cat append_old.txt | sort -n >> data/list.txt
 
-            cat data/all.txt | wc -l
+            cat data/list.txt | wc -l
             break
         } else {
             cat append_old.txt >> append.txt
@@ -32,21 +34,30 @@ update_all() {
         }
     }
 
-    echo '[all][done]'
+    echo '[list][end]'
 
     rm append*.txt last.txt
 }
 
 update_statistics() {
-    # update data/os.txt data/shell.txt data/term.txt
+    # update data/{os.txt,shell.txt,term.txt,user.txt}
+
+    # 0: no update
+    # 1: error
+    # 2: update success
+    local ret=0
+
+    [[ -d pages ]] || mkdir pages
 
     local begin=0
     [[ -f data/os.txt ]] && {
-        begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d'@')$" data/all.txt)%:*}
+        begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d'@')$" data/list.txt)%:*}
     }
 
-    for i ($(sed -n "$((begin + 1)),\$p" data/all.txt)) {
-        echo "[statistics] process cast $i ..."
+    echo '[statistics][begin]'
+
+    for i ($(sed -n "$((begin + 1)),\$p" data/list.txt)) {
+        echo "process cast $i ..."
         [[ -f pages/$i ]] || curl "https://asciinema.org/a/$i" -o pages/$i 2> /dev/null
 
         local os=$(grep -F '<code>OS=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
@@ -90,7 +101,7 @@ update_statistics() {
             ;;
         }
 
-        if [[ -n $os || -n $shell || -n $term ]] {
+        if [[ -n $os$shell$term$user ]] {
             echo $i@${os:-Unknown} >> data/os.txt
             echo $i@${shell:-unknown} >> data/shell.txt
             echo $i@${term:-unknown} >> data/term.txt
@@ -99,10 +110,18 @@ update_statistics() {
             echo error
             return 1
         }
+
+        ret=2
     }
 
-    echo '[statistics][done]'
+    echo '[statistics][end]'
+    return $ret
 }
 
-update_all
+update_list
 update_statistics
+
+if (($? == 2)) {
+    echo '[generate][begin]'
+    ./bin/generate && echo '[generate][end]'
+}

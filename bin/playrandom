@@ -2,7 +2,7 @@
 
 cd ${0:h}/..
 
-id=$(shuf -n 1 data/all.txt)
+id=$(shuf -n 1 data/list.txt)
 file=casts/$id.cast.gz
 
 if [[ -f $file ]] {
