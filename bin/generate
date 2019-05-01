@@ -1,31 +1,74 @@
 #!/bin/zsh
 
+cd ${0:h}/..
+
 summary() {
     local files=(os.txt shell.txt term.txt)
 
     for file ($files) {
-        local -A tmp tmpr
+        local -A tmp
+        local -a tmpr
         local all=0
 
         while {read line} {
-            name=${line#* }
+            name=${line#*@}
+            
+            [[ $file == os.txt ]] && {
+                case $name {
+                    (*linux)
+                    name='Linux'
+                    ;;
+
+                    (*macos|*macOS)
+                    name='macOS'
+                    ;;
+
+                    (freebsd)
+                    name='FreeBSD'
+                    ;;
+
+                    (*windows)
+                    name='Windows'
+                    ;;
+
+                    (android)
+                    name='Android'
+                    ;;
+                }
+            }
+
+            [[ $file == shell.txt ]] && {
+                case $name {
+                    (*bash*)
+                    name='bash'
+                    ;;
+
+                    (*zsh*)
+                    name='zsh'
+                    ;;
+                }
+            }
+
             (($+tmp[$name])) || tmp[$name]=0
 
             ((tmp[$name]++, all++))
         } < data/$file
 
         for k v (${(kv)tmp}) {
-           tmpr[$v]=$k
+            tmpr+=($v@$k)
         }
 
-        for k (${(Onk)tmpr}) {
-            echo "$tmpr[$k] <br> $k / $all <br> $(printf '%.3f' $((100.0 * k / all)))%"
+        for i (${(On)tmpr}) {
+            local number=${i%@*}
+            local item=${i#*@}
+
+            echo "$item <br> $number / $all <br> $(printf '%.3f' $((100.0 * number / all)))%"
         } > $file
 
         unset tmp tmpr
     }
 
-    paste -d ':' $files
+    paste -d '@' $files
     rm $files
 }
 
@@ -71,7 +114,7 @@ printf $before "$(date -u +'%Y-%m-%d %H:%M:%S') UTC" > index.html
 
 index=0
 summary | while {read line} {
-    printf $template $((++index)) "${(s/:/)line}" >> index.html
+    printf $template $((++index)) "${(@s/@/)line}" >> index.html
 }
 
 echo $after >> index.html

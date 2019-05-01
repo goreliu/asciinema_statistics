@@ -40,24 +40,25 @@ update_all() {
 update_statistics() {
     # update data/os.txt data/shell.txt data/term.txt
 
-    local begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d' ')$" data/all.txt)%:*}
+    local begin=0
+    [[ -f data/os.txt ]] && {
+        begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d'@')$" data/all.txt)%:*}
+    }
 
     for i ($(sed -n "$((begin + 1)),\$p" data/all.txt)) {
         echo "[statistics] process cast $i ..."
-        curl "https://asciinema.org/a/$i" 2> /dev/null > page.html
+        [[ -f pages/$i ]] || curl "https://asciinema.org/a/$i" -o pages/$i 2> /dev/null
 
-        local os=$(grep -F '<code>OS=' page.html | sed 's/^.*=//g; s/<.*$//g')
-        local shell=$(grep -F '<code>SHELL=' page.html | sed 's/^.*=//g; s/<.*$//g')
-        local term=$(grep -F '<code>TERM=' page.html | sed 's/^.*=//g; s/<.*$//g')
+        local os=$(grep -F '<code>OS=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
+        local shell=$(grep -F '<code>SHELL=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
+        local term=$(grep -F '<code>TERM=' pages/$i | sed 's/^.*=//g; s/<.*$//g')
 
-        rm page.html
-
-        if [[ -n $os && -n $shell && -n term ]] {
-            echo $i $os >> data/os.txt
-            echo $i $shell >> data/shell.txt
-            echo $i $term >> data/term.txt
+        if [[ -n $os || -n $shell || -n $term ]] {
+            echo $i@${os:-unknown} >> data/os.txt
+            echo $i@${shell:-unknown} >> data/shell.txt
+            echo $i@${term:-unknown} >> data/term.txt
         } else {
-            echo "error: OS:|$os| SHELL:|$shell| TERM:|$term|"
+            echo error
             return 1
         }
     }
@@ -72,5 +73,5 @@ update_statistics() {
     #     | sed 's|.cast.gz:"TERM": *"| |g; s|".*$||g; s|files/||g' | sort -n > term.txt
 }
 
-update_all
+#update_all
 update_statistics
