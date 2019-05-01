@@ -1,0 +1,20 @@
+#!/bin/zsh
+
+cd ${0:h}/../data
+
+(($+commands[sqlite3])) || {
+    echo please install sqlite3
+    return 1
+}
+
+echo 'create table data'\
+    '(id int, os varchar(20), shell varchar(20), term varchar(50), user varchar(50));' \
+    > asciinema.sql
+
+# insert into data values(%s, "%s", "%s", "%s", "%s");
+paste -d'#' list.txt os.txt shell.txt term.txt user.txt \
+    | sed 's/#[0-9]*@/", "/g; s/^/insert into data values("/g; s/$/");/g' \
+    >> asciinema.sql
+
+sqlite3 -cmd '.read asciinema.sql' -cmd '.save asciinema.db' < /dev/null \
+    && echo saved data to $(readlink -f asciinema.db)

@@ -1,2 +1,4 @@
 casts
 pages
+*.db
+*.sql
