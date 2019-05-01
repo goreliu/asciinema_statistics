@@ -27,6 +27,10 @@ summary() {
             local number=${i%@*}
             local item=${i#*@}
 
+            if [[ $file == user.txt ]] {
+                item="<a href=\"https://asciinema.org/~$item\">"$item"</a>"
+            }
+
             echo "$item <br> $number / $all <br> $(printf '%.3f' $((100.0 * number / all)))%"
 
             if ((++count >= 100)) {
@@ -47,11 +51,17 @@ local before='''<!doctype html>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="static/css/bootstrap.min.css">
+	<style type="text/css">
+        body {background-color:#000000}
+        h1   {color:#FFFFFF}
+        h6   {color:#DDDDDD}
+        a    {color:#00FF00}
+    </style>
     <title>asciinema statistics</title>
   </head>
-  <body lang="en" style="background-color:#000000;">
-    <h1 align="center" style="color:#FFFFFF;">asciinema statistics</h1>
-    <h6 align="center" style="color:#DDDDDD;">
+  <body lang="en">
+    <h1 align="center">asciinema statistics</h1>
+    <h6 align="center">
       (data from <a href="https://asciinema.org/explore/public">asciinema</a>, %s)</a>
     </h6>
 
