@@ -4,7 +4,7 @@ A statistics page of [asciinema.org](https://asciinema.org/explore/public), visi
 
 A screenshot:
 
-![](static/img/screenshot.png)
+![](https://raw.githubusercontent.com/wiki/goreliu/asciinema_statistics/images/screenshot.png)
 
 ## Tools
 
