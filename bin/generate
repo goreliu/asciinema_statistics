@@ -22,14 +22,14 @@ summary() {
             tmp_array+=($v@$k)
         }
 
-        local index=0
+        local count=0
         for i (${(On)tmp_array}) {
             local number=${i%@*}
             local item=${i#*@}
 
             echo "$item <br> $number / $all <br> $(printf '%.3f' $((100.0 * number / all)))%"
 
-            if ((index++ > 100)) {
+            if ((++count >= 100)) {
                 break
             }
         } > $file
