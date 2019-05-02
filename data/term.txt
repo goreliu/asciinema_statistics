@@ -21124,3 +21124,5 @@
 243844@xterm-256color
 243845@xterm-256color
 243847@ansi
+243778@xterm-256color
+243779@xterm-256color
