@@ -21152,3 +21152,5 @@
 244014@xterm-256color
 244024@xterm-termite
 244031@screen-256color
+244036@screen
+244037@xterm-256color
