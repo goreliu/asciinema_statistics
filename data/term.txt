@@ -21159,3 +21159,5 @@
 244065@rxvt-unicode-256color
 244092@xterm-256color
 244104@xterm-256color
+244155@xterm-256color
+244156@xterm-256color
