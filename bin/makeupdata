@@ -2,6 +2,24 @@
 
 cd ${0:h}/..
 
+if [[ $1 == -c ]] {
+    # check
+
+    echo diff casts pages:
+    diff <(ls casts | sed 's/.cast.gz//g' | sort -n) <(ls pages | sort -n)
+
+    echo diff pages list:
+    diff <(ls pages | sort -n) data/list.txt
+
+    echo diff list os shell term user:
+    diff data/list.txt <(cut -f1 -d@ data/os.txt)
+    diff data/list.txt <(cut -f1 -d@ data/shell.txt)
+    diff data/list.txt <(cut -f1 -d@ data/term.txt)
+    diff data/list.txt <(cut -f1 -d@ data/user.txt)
+
+    return 0
+}
+
 for i ($(comm -23 <(sort data/list.txt) <(ls casts | sed 's/.cast.gz//g' | sort))) {
     echo downloading $i.cast.gz ...
     curl -L "https://asciinema.org/a/$i.cast?dl=1" -o casts/$i.cast.gz 2> /dev/null || {
