@@ -7,7 +7,7 @@ local file=casts/$id.cast.gz
 
 if [[ -f $file ]] {
 	echo playing $file ...
-	zcat $file | asciinema play -
+	zstd -dcq $file | asciinema play -
 } else {
 	local url="https://asciinema.org/a/$id"
 	echo playing $url ...
