@@ -21192,3 +21192,5 @@
 244308@xterm-256color
 244309@screen-256color
 244334@rxvt-unicode-256color
+244341@rxvt-unicode-256color
+244342@rxvt-unicode-256color
