@@ -21195,3 +21195,4 @@
 244341@rxvt-unicode-256color
 244342@rxvt-unicode-256color
 244343@xterm-256color
+244344@xterm-256color
