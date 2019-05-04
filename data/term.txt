@@ -21200,3 +21200,4 @@
 244340@rxvt-unicode-256color
 244355@xterm-256color
 244369@screen-256color
+244370@Command Prompt
