@@ -1,7 +1,7 @@
 #!/bin/zsh
-
 cd ${0:h}/..
 
+mkdir -p casts pages
 if [[ $1 == -c ]] {
     # check
 
@@ -30,7 +30,7 @@ for i ($(comm -23 <(sort data/list.txt) <(ls casts | sed 's/.cast.gz//g' | sort)
 
 for i ($(comm -23 <(sort data/list.txt) <(ls pages | sort))) {
     echo downloading $i ...
-    curl -L "https://asciinema.org/a/$i" -o pages/$i 2> /dev/null || {
+    curl -L "https://asciinema.org/a/$i.html" -o pages/$i 2> /dev/null || {
         echo error
         return 1
     }
