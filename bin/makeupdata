@@ -1,0 +1,19 @@
+#!/bin/zsh
+
+cd ${0:h}/..
+
+for i ($(comm -23 <(sort data/list.txt) <(ls casts | sed 's/.cast.gz//g' | sort))) {
+    echo downloading $i.cast.gz ...
+    curl -L "https://asciinema.org/a/$i.cast?dl=1" -o casts/$i.cast.gz 2> /dev/null || {
+        echo error
+        return 1
+    }
+}
+
+for i ($(comm -23 <(sort data/list.txt) <(ls pages | sort))) {
+    echo downloading $i ...
+    curl -L "https://asciinema.org/a/$i" -o pages/$i 2> /dev/null || {
+        echo error
+        return 1
+    }
+}

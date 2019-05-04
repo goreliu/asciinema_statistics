@@ -25,8 +25,7 @@ update_list() {
         if [[ -n $(comm -12 append.txt last.txt) ]] {
             echo -n "$(cat last.txt | wc -l) -> "
 
-            comm -23 append.txt last.txt | sort -n >> data/list.txt
-            cat append_old.txt | sort -n >> data/list.txt
+            {comm -23 append.txt last.txt; cat append_old.txt} | sort -un >> data/list.txt
 
             cat data/list.txt | wc -l
             break

@@ -21101,9 +21101,9 @@
 243641@xterm-256color
 243646@xterm-256color
 243665@xterm-256color
+243668@xterm-256color
 243670@xterm-256color
 243691@xterm-256color
-243668@xterm-256color
 243702@xterm-256color
 243713@xterm-256color
 243714@xterm-256color
@@ -21112,10 +21112,15 @@
 243736@xterm-256color
 243737@xterm-256color
 243741@xterm-256color
+243744@xterm-256color
+243751@xterm-256color
 243754@xterm-256color
+243755@xterm-256color
 243758@xterm-256color
 243770@xterm-256color
 243773@xterm-256color
+243778@xterm-256color
+243779@xterm-256color
 243806@xterm-256color
 243817@xterm-256color
 243832@xterm-256color
@@ -21124,8 +21129,6 @@
 243844@xterm-256color
 243845@xterm-256color
 243847@ansi
-243778@xterm-256color
-243779@xterm-256color
 243851@xterm-256color
 243852@xterm-256color
 243863@xterm-256color
@@ -21152,6 +21155,7 @@
 244014@xterm-256color
 244024@xterm-termite
 244031@screen-256color
+244034@screen-256color
 244036@screen
 244037@xterm-256color
 244045@xterm-256color
@@ -21166,8 +21170,8 @@
 244181@xterm-256color
 244183@xterm-256color
 244194@xterm-256color
-244206@xterm-256color
 244202@screen-256color
+244206@xterm-256color
 244211@xterm-256color
 244233@xterm-256color
 244237@xterm-256color
