@@ -21220,3 +21220,4 @@
 244464@Command Prompt
 244469@xterm-256color
 244470@xterm-256color
+244482@xterm-256color
