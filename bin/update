@@ -50,14 +50,9 @@ update_statistics() {
 
     [[ -d pages ]] || mkdir pages
 
-    local begin=0
-    [[ -f data/os.txt ]] && {
-        begin=${$(grep -n "^$(tail -n 1 data/os.txt | cut -f1 -d'@')$" data/list.txt)%:*}
-    }
-
     echo '[statistics][begin]'
 
-    for i ($(sed -n "$((begin + 1)),\$p" data/list.txt)) {
+    for i ($(comm -23 <(sort data/list.txt) <(cut -f1 -d@ data/os.txt | sort))) {
         echo "process cast $i ..."
         [[ -f pages/$i ]] || curl "https://asciinema.org/a/$i" -o pages/$i 2> /dev/null
 
@@ -103,10 +98,10 @@ update_statistics() {
         }
 
         if [[ -n $os$shell$term$user ]] {
-            echo $i@${os:-Unknown} >> data/os.txt
-            echo $i@${shell:-unknown} >> data/shell.txt
-            echo $i@${term:-unknown} >> data/term.txt
-            echo $i@${user:-unknown} >> data/user.txt
+            echo $i@${os:-Unknown} >> os.txt
+            echo $i@${shell:-unknown} >> shell.txt
+            echo $i@${term:-unknown} >> term.txt
+            echo $i@${user:-unknown} >> user.txt
         } else {
             echo error
             return 1
@@ -120,6 +115,14 @@ update_statistics() {
         }
 
         ret=2
+    }
+
+    [[ -n os.txt ]] && {
+        for i (os.txt shell.txt term.txt user.txt) {
+            cat data/$i >> $i
+            sort -n $i > data/$i
+            rm $i
+        }
     }
 
     echo '[statistics][end]'
