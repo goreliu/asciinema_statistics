@@ -21227,3 +21227,4 @@
 244508@xterm-256color
 244514@xterm-256color
 244518@xterm-256color
+244524@Command Prompt
