@@ -21242,3 +21242,4 @@
 244581@rxvt-unicode-256color
 244586@screen-256color
 244587@screen
+244597@xterm-256color
