@@ -21262,3 +21262,4 @@
 244658@xterm-256color
 244660@xterm-256color
 244661@rxvt-unicode-256color
+244663@xterm-kitty
