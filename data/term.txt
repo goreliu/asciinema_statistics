@@ -21236,3 +21236,4 @@
 244555@xterm-256color
 244563@screen.xterm-256color
 244571@screen
+244577@rxvt-unicode-256color
