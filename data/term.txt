@@ -21270,3 +21270,7 @@
 244711@xterm-256color
 244712@xterm-256color
 244716@xterm-256color
+244717@xterm-256color
+244718@xterm-256color
+244719@xterm-256color
+244722@xterm-256color
