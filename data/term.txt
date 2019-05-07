@@ -21308,3 +21308,4 @@
 244859@xterm-256color
 244873@screen
 244875@xterm-256color
+244892@xterm-256color
