@@ -21288,3 +21288,6 @@
 244788@xterm-256color
 244793@xterm-256color
 244796@xterm-256color
+244797@xterm-256color
+244799@xterm-256color
+244800@xterm-256color
