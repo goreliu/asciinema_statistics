@@ -21291,3 +21291,8 @@
 244797@xterm-256color
 244799@xterm-256color
 244800@xterm-256color
+244801@xterm-256color
+244802@xterm-256color
+244803@xterm-256color
+244804@xterm-256color
+244805@xterm-256color
