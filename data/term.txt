@@ -21321,3 +21321,5 @@
 244927@xterm-256color
 244929@screen
 244940@xterm-256color
+244941@xterm-256color
+244942@xterm-256color
