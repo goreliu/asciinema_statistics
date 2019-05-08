@@ -21320,3 +21320,4 @@
 244925@xterm
 244927@xterm-256color
 244929@screen
+244940@xterm-256color
