@@ -21331,3 +21331,4 @@
 245002@rxvt-unicode-256color
 245004@rxvt-unicode-256color
 245015@xterm-256color
+245020@xterm-256color
