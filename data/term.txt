@@ -21338,3 +21338,4 @@
 245032@xterm-256color
 245046@xterm
 245057@xterm-256color
+245060@xterm-256color
