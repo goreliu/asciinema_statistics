@@ -21365,3 +21365,4 @@
 245316@xterm-256color
 245324@xterm-256color
 245332@xterm-256color
+245384@screen-256color
