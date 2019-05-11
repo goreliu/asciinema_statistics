@@ -21395,3 +21395,4 @@
 245580@xterm-256color
 245581@xterm-256color
 245582@xterm-256color
+245587@xterm-256color
