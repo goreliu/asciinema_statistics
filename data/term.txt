@@ -21390,3 +21390,4 @@
 245542@xterm-256color
 245554@xterm-256color
 245556@xterm-256color
+245566@xterm-256color
