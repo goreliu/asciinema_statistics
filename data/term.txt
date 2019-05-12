@@ -21419,3 +21419,4 @@
 245757@xterm
 245770@xterm-termite
 245771@xterm-256color
+245772@xterm-256color
