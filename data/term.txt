@@ -21417,3 +21417,4 @@
 245744@xterm-256color
 245755@xterm-256color
 245757@xterm
+245770@xterm-termite
