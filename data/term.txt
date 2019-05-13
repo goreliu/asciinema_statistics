@@ -21440,3 +21440,8 @@
 245965@xterm-256color
 245969@xterm-256color
 245987@xterm-256color
+245989@xterm-256color
+245990@xterm-256color
+245992@xterm-256color
+245994@xterm-256color
+245995@xterm-256color
