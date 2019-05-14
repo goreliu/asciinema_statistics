@@ -21448,3 +21448,4 @@
 246004@xterm-256color
 246028@unknown
 246044@screen-256color
+246048@xterm-256color
