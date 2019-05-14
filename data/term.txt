@@ -21465,3 +21465,4 @@
 246172@xterm-256color
 246175@xterm-256color
 246181@xterm-256color
+246182@xterm-256color
