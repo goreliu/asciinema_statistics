@@ -21450,3 +21450,4 @@
 246044@screen-256color
 246048@xterm-256color
 246065@xterm-256color
+246082@xterm-256color
