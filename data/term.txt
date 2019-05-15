@@ -21480,3 +21480,4 @@
 246259@xterm-256color
 246266@screen
 246271@xterm-256color
+246278@xterm-256color
