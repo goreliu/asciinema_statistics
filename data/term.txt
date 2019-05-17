@@ -21507,3 +21507,4 @@
 246684@screen
 246708@linux
 246713@screen
+246756@xterm-256color
