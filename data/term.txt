@@ -21528,3 +21528,4 @@
 246942@xterm-256color
 246950@xterm-256color
 246951@xterm-256color
+246969@screen-256color
