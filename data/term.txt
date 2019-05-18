@@ -21540,3 +21540,4 @@
 247045@xterm-256color
 247046@xterm-256color
 247048@xterm-256color
+247058@xterm
