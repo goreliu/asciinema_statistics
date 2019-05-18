@@ -21532,3 +21532,4 @@
 246973@xterm-256color
 246981@xterm-256color
 247000@xterm-256color
+247020@xterm-256color
