@@ -21545,3 +21545,4 @@
 247103@xterm-256color
 247134@xterm
 247139@screen-256color
+247142@screen-256color
