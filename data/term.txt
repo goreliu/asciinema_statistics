@@ -21565,3 +21565,4 @@
 247189@xterm-256color
 247191@xterm-256color
 247192@xterm-256color
+247200@xterm-256color
