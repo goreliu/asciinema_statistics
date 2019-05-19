@@ -21549,3 +21549,4 @@
 247145@screen-256color
 247164@xterm-256color
 247168@xterm-256color
+247171@xterm-256color
