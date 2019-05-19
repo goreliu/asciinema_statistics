@@ -21550,3 +21550,6 @@
 247164@xterm-256color
 247168@xterm-256color
 247171@xterm-256color
+247174@xterm-256color
+247176@xterm-256color
+247177@xterm-256color
