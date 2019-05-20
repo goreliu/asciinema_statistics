@@ -21582,3 +21582,4 @@
 247348@xterm-256color
 247357@xterm-termite
 247361@xterm-256color
+247372@xterm-256color
