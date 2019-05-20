@@ -21580,3 +21580,4 @@
 247343@xterm-256color
 247344@xterm-256color
 247348@xterm-256color
+247357@xterm-termite
