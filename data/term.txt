@@ -21568,3 +21568,4 @@
 247200@xterm-256color
 247245@xterm-256color
 247247@rxvt-unicode-256color
+247253@xterm-256color
