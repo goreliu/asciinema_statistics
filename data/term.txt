@@ -21587,3 +21587,4 @@
 247376@xterm-256color
 247380@xterm-256color
 247384@xterm-256color
+247397@konsole-256color
