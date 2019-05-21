@@ -21605,3 +21605,4 @@
 247545@xterm-256color
 247547@xterm-256color
 247575@xterm-256color
+247596@xterm-256color
