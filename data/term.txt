@@ -21674,3 +21674,4 @@
 248132@xterm
 248147@xterm
 248153@xterm
+248155@xterm-256color
