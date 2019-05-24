@@ -21680,3 +21680,4 @@
 248182@xterm-256color
 248209@xterm-256color
 248215@xterm
+248253@xterm-256color
