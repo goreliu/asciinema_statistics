@@ -21690,3 +21690,4 @@
 248301@screen-256color
 248319@xterm-256color
 248320@xterm-termite
+248323@xterm-256color
