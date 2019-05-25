@@ -21691,3 +21691,4 @@
 248319@xterm-256color
 248320@xterm-termite
 248323@xterm-256color
+248325@xterm-256color
