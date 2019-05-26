@@ -21702,3 +21702,5 @@
 248421@xterm
 248430@xterm
 248451@xterm-256color
+248452@xterm-256color
+248453@screen-256color
