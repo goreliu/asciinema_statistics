@@ -21699,3 +21699,4 @@
 248403@screen
 248411@xterm-256color
 248414@xterm-256color
+248421@xterm
