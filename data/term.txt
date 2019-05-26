@@ -21700,3 +21700,4 @@
 248411@xterm-256color
 248414@xterm-256color
 248421@xterm
+248430@xterm
