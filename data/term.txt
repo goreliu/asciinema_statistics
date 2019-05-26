@@ -21708,3 +21708,4 @@
 248462@xterm-256color
 248466@xterm
 248482@xterm-256color
+248501@xterm-256color
