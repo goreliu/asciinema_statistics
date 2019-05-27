@@ -21712,3 +21712,4 @@
 248508@xterm-256color
 248509@xterm-256color
 248510@xterm-256color
+248522@xterm-256color
