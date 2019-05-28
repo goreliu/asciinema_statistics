@@ -21723,3 +21723,7 @@
 248799@xterm-256color
 248817@tmux-256color
 248856@xterm-256color
+248859@xterm-256color
+248860@xterm-256color
+248861@xterm-256color
+248862@xterm-256color
