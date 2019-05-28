@@ -21721,3 +21721,4 @@
 248706@xterm-256color
 248721@xterm-256color
 248799@xterm-256color
+248817@tmux-256color
