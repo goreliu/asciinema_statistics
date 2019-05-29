@@ -21735,3 +21735,4 @@
 248934@xterm-256color
 248946@xterm
 248947@xterm-256color
+248961@xterm-kitty
