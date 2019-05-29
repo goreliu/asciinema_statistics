@@ -21738,3 +21738,4 @@
 248961@xterm-kitty
 248968@xterm-256color
 248971@screen-256color
+248976@xterm-256color
