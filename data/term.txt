@@ -21777,3 +21777,4 @@
 249319@xterm
 249326@xterm
 249339@xterm-256color
+249373@xterm-kitty
