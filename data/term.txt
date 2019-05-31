@@ -21778,3 +21778,4 @@
 249326@xterm
 249339@xterm-256color
 249373@xterm-kitty
+249387@xterm-256color
