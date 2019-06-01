@@ -21808,3 +21808,4 @@
 249555@st-256color
 249562@xterm-termite
 249573@xterm-256color
+249574@xterm
