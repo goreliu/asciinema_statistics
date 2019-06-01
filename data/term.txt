@@ -21801,3 +21801,4 @@
 249514@rxvt-unicode-256color
 249515@rxvt-unicode-256color
 249521@xterm-256color
+249527@tmux-256color
