@@ -21840,3 +21840,4 @@
 249809@xterm-256color
 249814@xterm-256color
 249822@st-256color
+249828@xterm-kitty
