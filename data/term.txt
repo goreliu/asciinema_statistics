@@ -21830,3 +21830,4 @@
 249707@xterm
 249708@xterm
 249730@xterm-256color
+249734@xterm
