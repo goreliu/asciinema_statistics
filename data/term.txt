@@ -21819,3 +21819,4 @@
 249649@xterm-256color
 249666@xterm-256color
 249680@xterm-256color
+249682@xterm-256color
