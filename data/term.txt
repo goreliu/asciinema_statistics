@@ -21843,3 +21843,4 @@
 249828@xterm-kitty
 249839@xterm-256color
 249878@xterm-256color
+249879@xterm-256color
