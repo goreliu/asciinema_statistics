@@ -21859,3 +21859,5 @@
 250003@xterm-256color
 250010@screen-256color
 250016@rxvt-unicode-256color
+250054@xterm-256color
+250055@xterm-256color
