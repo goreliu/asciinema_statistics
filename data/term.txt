@@ -21866,3 +21866,5 @@
 250072@xterm
 250079@xterm
 250114@xterm-256color
+250115@xterm-256color
+250116@xterm-256color
