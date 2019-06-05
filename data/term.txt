@@ -21858,3 +21858,4 @@
 249996@xterm-256color
 250003@xterm-256color
 250010@screen-256color
+250016@rxvt-unicode-256color
