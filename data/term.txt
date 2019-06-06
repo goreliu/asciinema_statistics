@@ -21902,3 +21902,4 @@
 250228@xterm-256color
 250232@xterm-256color
 250234@xterm-256color
+250236@screen-256color
