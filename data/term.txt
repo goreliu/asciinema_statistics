@@ -21873,3 +21873,6 @@
 250145@screen
 250168@xterm-256color
 250169@xterm-256color
+250170@xterm-256color
+250172@xterm-256color
+250174@xterm-256color
