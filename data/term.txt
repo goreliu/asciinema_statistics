@@ -21868,3 +21868,4 @@
 250114@xterm-256color
 250115@xterm-256color
 250116@xterm-256color
+250138@xterm-256color
