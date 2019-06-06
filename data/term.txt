@@ -21880,3 +21880,11 @@
 250177@xterm-256color
 250192@xterm-256color
 250193@xterm-256color
+250195@xterm-256color
+250196@xterm-256color
+250197@xterm-256color
+250198@xterm-256color
+250199@xterm-256color
+250200@xterm-256color
+250201@xterm-256color
+250202@xterm-256color
