@@ -21920,3 +21920,6 @@
 250355@xterm-256color
 250369@xterm-256color
 250408@xterm-256color
+250411@xterm-256color
+250413@xterm-256color
+250414@xterm-256color
