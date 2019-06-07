@@ -21929,3 +21929,4 @@
 250431@rxvt-unicode
 250432@rxvt-unicode
 250436@xterm-kitty
+250437@xterm-256color
