@@ -21928,3 +21928,4 @@
 250430@rxvt-unicode
 250431@rxvt-unicode
 250432@rxvt-unicode
+250436@xterm-kitty
