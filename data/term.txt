@@ -21931,3 +21931,4 @@
 250436@xterm-kitty
 250437@xterm-256color
 250451@rxvt-unicode
+250462@xterm-256color
