@@ -21923,3 +21923,8 @@
 250411@xterm-256color
 250413@xterm-256color
 250414@xterm-256color
+250428@rxvt-unicode
+250429@rxvt-unicode
+250430@rxvt-unicode
+250431@rxvt-unicode
+250432@rxvt-unicode
