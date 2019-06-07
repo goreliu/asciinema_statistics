@@ -21935,3 +21935,4 @@
 250462@xterm-256color
 250468@xterm-256color
 250469@xterm-256color
+250472@xterm-256color
