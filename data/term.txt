@@ -21933,3 +21933,5 @@
 250451@rxvt-unicode
 250456@xterm-256color
 250462@xterm-256color
+250468@xterm-256color
+250469@xterm-256color
