@@ -21940,3 +21940,4 @@
 250532@xterm-256color
 250538@xterm-256color
 250539@xterm-256color
+250571@xterm-256color
