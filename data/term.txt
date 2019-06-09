@@ -21947,3 +21947,5 @@
 250585@xterm-256color
 250594@screen-256color
 250637@xterm-256color
+250652@xterm-256color
+250653@xterm
