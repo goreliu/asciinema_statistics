@@ -21952,3 +21952,4 @@
 250660@xterm-256color
 250664@xterm-256color
 250671@xterm-256color
+250675@xterm-256color
