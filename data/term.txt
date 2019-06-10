@@ -21956,3 +21956,4 @@
 250701@screen-256color
 250732@xterm
 250736@xterm
+250738@screen-256color
