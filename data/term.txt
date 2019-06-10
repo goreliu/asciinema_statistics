@@ -21959,6 +21959,7 @@
 250738@screen-256color
 250742@xterm-256color
 250744@xterm-256color
+250755@xterm-256color
 250760@xterm-256color
 250761@xterm-256color
 250762@xterm-256color
