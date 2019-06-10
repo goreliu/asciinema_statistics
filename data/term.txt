@@ -21962,3 +21962,4 @@
 250760@xterm-256color
 250761@xterm-256color
 250762@xterm-256color
+250763@xterm-256color
