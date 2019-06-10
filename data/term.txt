@@ -21954,3 +21954,4 @@
 250671@xterm-256color
 250675@xterm-256color
 250701@screen-256color
+250732@xterm
