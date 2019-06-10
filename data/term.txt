@@ -21970,3 +21970,4 @@
 250775@xterm
 250776@xterm
 250785@xterm
+250794@xterm-256color
