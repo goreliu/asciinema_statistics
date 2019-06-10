@@ -21958,3 +21958,4 @@
 250736@xterm
 250738@screen-256color
 250742@xterm-256color
+250744@xterm-256color
