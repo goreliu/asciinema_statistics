@@ -21986,3 +21986,5 @@
 250989@xterm-256color
 250991@xterm-256color
 250992@xterm-256color
+251003@xterm-256color
+251005@xterm-256color
