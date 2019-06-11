@@ -21988,3 +21988,4 @@
 250992@xterm-256color
 251003@xterm-256color
 251005@xterm-256color
+251019@xterm
