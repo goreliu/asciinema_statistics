@@ -21976,3 +21976,4 @@
 250840@xterm-256color
 250900@xterm-256color
 250910@xterm-256color
+250919@xterm
