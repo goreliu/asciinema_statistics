@@ -21993,3 +21993,4 @@
 251048@rxvt-unicode-256color
 251050@xterm-256color
 251052@xterm-256color
+251057@xterm-256color
