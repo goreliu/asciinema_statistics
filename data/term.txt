@@ -21991,3 +21991,4 @@
 251019@xterm
 251021@xterm-256color
 251048@rxvt-unicode-256color
+251050@xterm-256color
