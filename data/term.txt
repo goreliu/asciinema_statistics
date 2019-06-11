@@ -21977,3 +21977,4 @@
 250900@xterm-256color
 250910@xterm-256color
 250919@xterm
+250935@xterm-kitty
