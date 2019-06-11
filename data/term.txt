@@ -21979,3 +21979,4 @@
 250919@xterm
 250935@xterm-kitty
 250942@xterm-kitty
+250944@xterm-kitty
