@@ -21995,3 +21995,4 @@
 251052@xterm-256color
 251057@xterm-256color
 251058@xterm-256color
+251067@xterm-256color
