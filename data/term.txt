@@ -21980,3 +21980,4 @@
 250935@xterm-kitty
 250942@xterm-kitty
 250944@xterm-kitty
+250957@xterm-256color
