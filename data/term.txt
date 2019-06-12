@@ -22006,3 +22006,5 @@
 251108@screen-256color
 251110@xterm-256color
 251137@xterm-256color
+251141@xterm
+251143@xterm-256color
