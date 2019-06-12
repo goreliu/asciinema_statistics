@@ -22022,3 +22022,4 @@
 251287@xterm-256color
 251295@xterm-256color
 251303@xterm-256color
+251306@xterm-256color
