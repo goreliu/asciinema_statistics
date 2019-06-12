@@ -22018,3 +22018,5 @@
 251240@xterm-256color
 251250@xterm-256color
 251280@xterm-256color
+251283@xterm-256color
+251287@xterm-256color
