@@ -22020,3 +22020,4 @@
 251280@xterm-256color
 251283@xterm-256color
 251287@xterm-256color
+251295@xterm-256color
