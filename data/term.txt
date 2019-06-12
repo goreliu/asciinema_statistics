@@ -22024,3 +22024,4 @@
 251303@xterm-256color
 251306@xterm-256color
 251312@rxvt-unicode-256color
+251318@xterm
