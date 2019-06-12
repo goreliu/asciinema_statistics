@@ -22031,3 +22031,4 @@
 251341@xterm
 251356@xterm-256color
 251367@xterm-256color
+251376@xterm-256color
