@@ -22053,3 +22053,4 @@
 251520@xterm-256color
 251543@xterm-256color
 251580@screen-256color
+251584@xterm-256color
