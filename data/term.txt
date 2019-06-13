@@ -22050,3 +22050,4 @@
 251497@xterm-256color
 251502@rxvt-unicode-256color
 251506@rxvt-unicode-256color
+251520@xterm-256color
