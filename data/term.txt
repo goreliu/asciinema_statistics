@@ -22057,3 +22057,4 @@
 251589@screen-256color
 251601@xterm-256color
 251613@rxvt
+251616@xterm-256color
