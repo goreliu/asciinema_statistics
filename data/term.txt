@@ -22048,3 +22048,4 @@
 251477@vt100
 251494@screen
 251497@xterm-256color
+251502@rxvt-unicode-256color
