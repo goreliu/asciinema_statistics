@@ -22079,3 +22079,4 @@
 251779@xterm-256color
 251787@xterm-256color
 251789@xterm-256color
+251792@xterm-256color
