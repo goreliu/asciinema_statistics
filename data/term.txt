@@ -22060,3 +22060,4 @@
 251616@xterm-256color
 251617@xterm-256color
 251636@xterm-256color
+251649@xterm
