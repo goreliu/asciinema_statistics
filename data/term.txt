@@ -22059,3 +22059,4 @@
 251613@rxvt
 251616@xterm-256color
 251617@xterm-256color
+251636@xterm-256color
