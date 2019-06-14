@@ -22085,3 +22085,4 @@
 251798@xterm-256color
 251799@xterm-256color
 251800@xterm-256color
+251801@xterm-256color
