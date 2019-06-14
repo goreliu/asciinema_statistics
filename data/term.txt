@@ -22065,3 +22065,4 @@
 251657@xterm-256color
 251659@xterm-256color
 251666@xterm
+251670@xterm
