@@ -22102,3 +22102,4 @@
 252042@xterm-256color
 252046@xterm-256color
 252047@xterm
+252048@xterm
