@@ -22095,3 +22095,4 @@
 251915@xterm-256color
 251922@xterm-256color
 251931@xterm-256color
+251961@xterm
