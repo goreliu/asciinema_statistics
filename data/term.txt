@@ -22100,3 +22100,5 @@
 252017@xterm-256color
 252021@xterm-256color
 252042@xterm-256color
+252046@xterm-256color
+252047@xterm
