@@ -22099,3 +22099,4 @@
 252009@xterm-256color
 252017@xterm-256color
 252021@xterm-256color
+252042@xterm-256color
