@@ -22105,3 +22105,4 @@
 252048@xterm
 252058@xterm-256color-italic
 252060@xterm-256color
+252073@xterm
