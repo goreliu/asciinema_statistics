@@ -22106,3 +22106,5 @@
 252058@xterm-256color-italic
 252060@xterm-256color
 252073@xterm
+252079@xterm-256color
+252080@xterm-256color
