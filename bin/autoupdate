@@ -10,5 +10,5 @@ while {true} {
         git commit -am "$(date -u +'%Y-%m-%d %H:%M:%S') UTC" && git push
     }
 
-    sleep 600
+    sleep 3600
 }
