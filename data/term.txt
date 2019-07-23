@@ -22742,3 +22742,5 @@
 258660@xterm-256color
 258669@screen
 258692@xterm-256color
+258738@xterm-256color
+258742@xterm-256color
