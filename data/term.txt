@@ -22750,3 +22750,4 @@
 258926@xterm
 258969@xterm-256color
 258984@xterm
+258988@cygwin
