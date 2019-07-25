@@ -22762,3 +22762,5 @@
 259077@xterm
 259078@xterm
 259081@xterm
+259098@xterm-256color
+259099@xterm-256color
