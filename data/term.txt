@@ -22770,3 +22770,4 @@
 259158@xterm
 259169@xterm
 259189@xterm
+259199@tmux-256color
