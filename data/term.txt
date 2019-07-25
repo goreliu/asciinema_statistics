@@ -22772,3 +22772,4 @@
 259189@xterm
 259199@tmux-256color
 259235@rxvt-unicode-256color
+259270@screen-256color
