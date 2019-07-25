@@ -22775,3 +22775,4 @@
 259235@rxvt-unicode-256color
 259270@screen-256color
 259272@screen-256color
+259296@xterm-256color
