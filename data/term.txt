@@ -22776,3 +22776,4 @@
 259270@screen-256color
 259272@screen-256color
 259296@xterm-256color
+259309@xterm-kitty
