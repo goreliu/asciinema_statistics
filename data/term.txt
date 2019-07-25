@@ -22768,3 +22768,4 @@
 259147@xterm-256color
 259157@xterm
 259158@xterm
+259169@xterm
