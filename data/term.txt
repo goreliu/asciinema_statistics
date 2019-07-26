@@ -22777,3 +22777,4 @@
 259272@screen-256color
 259296@xterm-256color
 259309@xterm-kitty
+259321@xterm-kitty
