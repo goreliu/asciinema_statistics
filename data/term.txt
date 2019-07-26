@@ -22778,3 +22778,6 @@
 259296@xterm-256color
 259309@xterm-kitty
 259321@xterm-kitty
+259327@xterm-256color
+259328@xterm-256color
+259331@xterm-256color
