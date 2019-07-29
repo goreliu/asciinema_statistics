@@ -22828,3 +22828,5 @@
 259695@xterm-256color
 259702@xterm-256color
 259705@xterm-256color
+259737@xterm-256color
+259738@tmux-256color
