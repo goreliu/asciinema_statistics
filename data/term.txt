@@ -22832,3 +22832,4 @@
 259738@tmux-256color
 259745@screen-256color
 259747@xterm-256color
+259760@st-256color
