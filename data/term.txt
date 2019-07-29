@@ -22833,3 +22833,4 @@
 259745@screen-256color
 259747@xterm-256color
 259760@st-256color
+259793@screen-256color
