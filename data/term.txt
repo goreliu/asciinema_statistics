@@ -22845,3 +22845,4 @@
 259824@xterm-256color
 259827@xterm-256color
 259829@xterm-256color
+259849@screen
