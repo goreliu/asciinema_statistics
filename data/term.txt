@@ -22851,3 +22851,9 @@
 259879@xterm-256color
 259891@xterm-256color
 259895@rxvt-unicode-256color
+259932@xterm-256color
+259934@xterm-256color
+259938@xterm-256color
+259941@xterm-256color
+259942@xterm-256color
+259945@screen
