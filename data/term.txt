@@ -22865,3 +22865,7 @@
 259970@xterm-256color
 259972@xterm-256color
 259990@xterm-256color
+259995@xterm-256color
+259997@xterm-256color
+260002@xterm-256color
+260003@xterm-256color
