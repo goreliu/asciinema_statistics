@@ -22872,3 +22872,5 @@
 260006@xterm-256color
 260008@xterm-256color
 260010@xterm-256color
+260062@rxvt-unicode-256color
+260076@xterm-256color
