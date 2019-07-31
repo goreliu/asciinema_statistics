@@ -22885,3 +22885,4 @@
 260188@xterm-256color
 260196@xterm-256color
 260209@xterm
+260214@xterm-256color
