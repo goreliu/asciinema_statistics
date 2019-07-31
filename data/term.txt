@@ -22883,6 +22883,14 @@
 260148@xterm-256color
 260167@vt100
 260188@xterm-256color
+260192@xterm-256color
 260196@xterm-256color
+260197@xterm-256color
+260198@xterm-256color
 260209@xterm
 260214@xterm-256color
+260230@xterm
+260235@xterm-256color
+260240@xterm-256color
+260241@xterm-256color
+260242@xterm-256color
