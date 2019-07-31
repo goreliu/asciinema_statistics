@@ -22875,3 +22875,4 @@
 260062@rxvt-unicode-256color
 260076@xterm-256color
 260080@xterm-256color
+260083@xterm-256color
