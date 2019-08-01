@@ -22905,3 +22905,5 @@
 260325@rxvt-unicode-256color
 260349@xterm-256color
 260351@xterm-256color
+260364@xterm-256color
+260367@tmux-256color
