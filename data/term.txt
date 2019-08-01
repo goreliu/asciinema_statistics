@@ -22909,3 +22909,7 @@
 260367@tmux-256color
 260373@xterm-256color
 260374@xterm-256color
+260388@xterm-256color
+260392@xterm-256color
+260393@xterm
+260394@xterm-256color
