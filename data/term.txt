@@ -22903,3 +22903,5 @@
 260309@screen-256color
 260324@rxvt-unicode-256color
 260325@rxvt-unicode-256color
+260349@xterm-256color
+260351@xterm-256color
