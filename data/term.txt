@@ -22922,3 +22922,4 @@
 260481@xterm-256color
 260482@xterm-256color
 260493@xterm
+260505@xterm-256color
