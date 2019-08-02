@@ -22930,3 +22930,5 @@
 260561@xterm-256color
 260562@xterm
 260567@alacritty
+260575@xterm-256color
+260592@xterm-256color
