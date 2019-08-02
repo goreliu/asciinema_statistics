@@ -22932,3 +22932,4 @@
 260567@alacritty
 260575@xterm-256color
 260592@xterm-256color
+260631@xterm-256color
