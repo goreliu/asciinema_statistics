@@ -22961,3 +22961,7 @@
 261019@xterm-256color
 261020@xterm-256color
 261071@xterm-256color
+261077@xterm-256color
+261078@xterm-256color
+261086@xterm-kitty
+261088@xterm-kitty
