@@ -22974,3 +22974,4 @@
 261189@xterm-256color
 261229@linux
 261230@linux
+261240@xterm-kitty
