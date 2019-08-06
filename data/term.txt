@@ -22965,3 +22965,5 @@
 261078@xterm-256color
 261086@xterm-kitty
 261088@xterm-kitty
+261115@screen
+261117@screen
