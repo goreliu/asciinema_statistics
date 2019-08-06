@@ -22968,3 +22968,4 @@
 261115@screen
 261117@screen
 261139@xterm
+261149@xterm-256color
