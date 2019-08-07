@@ -22988,3 +22988,6 @@
 261315@xterm-kitty
 261318@xterm-256color
 261319@screen-256color
+261323@xterm-256color
+261324@xterm-256color
+261326@xterm-256color
