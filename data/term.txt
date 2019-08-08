@@ -23002,3 +23002,8 @@
 261382@xterm-256color
 261388@rxvt-unicode-256color
 261391@xterm-256color
+261409@xterm-256color
+261411@xterm-256color
+261412@xterm-256color
+261413@xterm-256color
+261414@xterm-256color
