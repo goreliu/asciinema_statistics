@@ -22999,3 +22999,4 @@
 261376@xterm-256color
 261377@xterm-256color
 261378@xterm-256color
+261388@rxvt-unicode-256color
