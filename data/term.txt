@@ -23020,3 +23020,4 @@
 261501@xterm-256color
 261523@linux
 261529@xterm-256color
+261542@xterm-256color
