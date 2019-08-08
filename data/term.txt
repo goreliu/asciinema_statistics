@@ -23015,3 +23015,4 @@
 261472@xterm-256color
 261478@xterm-256color
 261482@tmux-256color
+261497@xterm-256color
