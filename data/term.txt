@@ -23018,3 +23018,5 @@
 261487@xterm-256color
 261497@xterm-256color
 261501@xterm-256color
+261523@linux
+261529@xterm-256color
