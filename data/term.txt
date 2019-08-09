@@ -23042,3 +23042,5 @@
 261650@xterm-256color
 261666@xterm-256color
 261667@xterm-256color
+261673@xterm-256color
+261678@xterm-256color
