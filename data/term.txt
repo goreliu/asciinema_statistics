@@ -23040,3 +23040,4 @@
 261646@screen-256color
 261648@xterm-256color
 261650@xterm-256color
+261666@xterm-256color
