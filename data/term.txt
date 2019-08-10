@@ -23052,3 +23052,5 @@
 261745@xterm-256color
 261760@xterm-256color
 261761@xterm-256color
+261762@xterm-256color
+261765@xterm-256color
