@@ -23055,3 +23055,4 @@
 261761@xterm-256color
 261762@xterm-256color
 261765@xterm-256color
+261776@xterm-256color
