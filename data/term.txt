@@ -23079,3 +23079,4 @@
 262022@screen
 262023@screen
 262039@xterm-256color
+262042@st-256color
