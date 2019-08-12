@@ -23076,3 +23076,5 @@
 261956@xterm-256color
 261989@xterm-termite
 262000@xterm-256color
+262022@screen
+262023@screen
