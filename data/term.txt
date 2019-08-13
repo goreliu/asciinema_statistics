@@ -23088,3 +23088,6 @@
 262146@xterm-256color
 262148@xterm-256color
 262160@xterm-256color
+262161@xterm
+262162@xterm-256color
+262168@xterm-256color
