@@ -23100,3 +23100,6 @@
 262204@xterm-256color
 262212@xterm-256color
 262222@st-256color
+262232@xterm-256color
+262241@st-256color
+262242@xterm-kitty
