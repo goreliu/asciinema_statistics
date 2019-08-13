@@ -23091,3 +23091,6 @@
 262161@xterm
 262162@xterm-256color
 262168@xterm-256color
+262177@xterm-256color
+262183@xterm-256color
+262192@xterm-256color
