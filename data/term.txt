@@ -23121,3 +23121,7 @@
 262436@screen-256color
 262437@cygwin
 262438@cygwin
+262441@cygwin
+262442@xterm-256color
+262446@cygwin
+262456@cygwin
