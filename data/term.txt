@@ -23118,3 +23118,6 @@
 262407@xterm-256color
 262412@xterm-256color
 262415@xterm-256color
+262436@screen-256color
+262437@cygwin
+262438@cygwin
