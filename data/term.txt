@@ -23151,6 +23151,7 @@
 262591@xterm-256color
 262612@xterm-256color
 262615@xterm-256color
+262619@xterm-256color
 262622@xterm-256color
 262630@xterm-256color
 262645@xterm-256color
@@ -23159,3 +23160,5 @@
 262659@xterm-256color
 262670@xterm-256color
 262678@screen-256color
+262691@xterm-256color
+262693@xterm-256color
