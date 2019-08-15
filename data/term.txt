@@ -23137,3 +23137,11 @@
 262526@cygwin
 262548@xterm-termite
 262562@xterm-256color
+262567@xterm-256color
+262569@xterm-256color
+262570@xterm-256color
+262574@xterm-256color
+262575@xterm-256color
+262578@xterm-256color
+262579@xterm-256color
+262581@xterm-256color
