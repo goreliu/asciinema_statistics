@@ -23136,3 +23136,4 @@
 262525@cygwin
 262526@cygwin
 262548@xterm-termite
+262562@xterm-256color
