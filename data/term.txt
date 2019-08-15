@@ -23130,3 +23130,4 @@
 262480@xterm-256color
 262508@xterm-kitty
 262509@xterm-kitty
+262517@cygwin
