@@ -23163,3 +23163,4 @@
 262691@xterm-256color
 262693@xterm-256color
 262714@xterm-256color
+262720@rxvt-unicode-256color
