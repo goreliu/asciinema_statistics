@@ -23177,3 +23177,4 @@
 262805@xterm-256color
 262824@xterm-256color
 262838@xterm
+262882@xterm-256color
