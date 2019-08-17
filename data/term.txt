@@ -23179,3 +23179,4 @@
 262838@xterm
 262882@xterm-256color
 262891@xterm-256color
+262900@xterm-256color
