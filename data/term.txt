@@ -23191,3 +23191,6 @@
 262974@xterm-256color
 262978@xterm-termite
 262979@xterm-256color
+262981@xterm-256color
+262982@screen
+262983@xterm-256color
