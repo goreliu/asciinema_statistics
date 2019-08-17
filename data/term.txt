@@ -23194,3 +23194,4 @@
 262981@xterm-256color
 262982@screen
 262983@xterm-256color
+262987@xterm-256color
