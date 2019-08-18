@@ -23199,3 +23199,9 @@
 263001@xterm-256color
 263002@xterm-256color
 263007@xterm-256color
+263021@xterm
+263022@xterm
+263024@xterm
+263025@xterm
+263026@xterm
+263027@xterm
