@@ -23205,3 +23205,5 @@
 263025@xterm
 263026@xterm
 263027@xterm
+263028@xterm-termite
+263029@xterm-termite
