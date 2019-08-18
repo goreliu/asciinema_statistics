@@ -23209,3 +23209,11 @@
 263029@xterm-termite
 263031@xterm-256color
 263044@xterm-256color
+263054@xterm
+263055@xterm
+263058@xterm
+263059@xterm
+263060@xterm
+263061@xterm
+263062@xterm
+263063@xterm
