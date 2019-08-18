@@ -23208,3 +23208,4 @@
 263028@xterm-termite
 263029@xterm-termite
 263031@xterm-256color
+263044@xterm-256color
