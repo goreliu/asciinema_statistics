@@ -23217,3 +23217,11 @@
 263061@xterm
 263062@xterm
 263063@xterm
+263064@xterm-256color
+263070@xterm
+263071@xterm
+263073@xterm
+263074@xterm
+263075@xterm
+263076@xterm
+263077@xterm
