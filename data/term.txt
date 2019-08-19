@@ -23225,3 +23225,4 @@
 263075@xterm
 263076@xterm
 263077@xterm
+263105@xterm-256color
