@@ -23247,3 +23247,4 @@
 263368@xterm-256color
 263394@xterm-256color
 263397@xterm-termite
+263416@xterm-256color
