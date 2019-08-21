@@ -23257,3 +23257,4 @@
 263518@screen-256color
 263547@st-256color
 263590@cygwin
+263615@xterm-256color
