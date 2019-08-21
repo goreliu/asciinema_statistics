@@ -23259,3 +23259,4 @@
 263590@cygwin
 263615@xterm-256color
 263630@xterm-256color
+263646@screen
