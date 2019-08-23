@@ -23279,3 +23279,11 @@
 263848@xterm-256color
 263855@xterm-256color
 263856@xterm-256color
+263882@xterm-256color
+263884@xterm-256color
+263890@xterm-256color
+263891@xterm-256color
+263892@xterm-256color
+263895@xterm-256color
+263906@xterm-256color
+263908@xterm-256color
