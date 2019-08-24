@@ -23313,3 +23313,4 @@
 264082@xterm
 264084@xterm
 264087@xterm
+264093@xterm-kitty
