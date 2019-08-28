@@ -23363,3 +23363,8 @@
 264623@screen-256color
 264650@xterm-256color
 264651@xterm-256color
+264654@xterm-256color
+264655@xterm-256color
+264662@xterm-256color
+264663@xterm-256color
+264664@xterm-256color
