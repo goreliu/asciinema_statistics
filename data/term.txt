@@ -23355,3 +23355,4 @@
 264473@xterm-256color
 264488@xterm-256color
 264498@xterm-256color
+264517@screen-256color
