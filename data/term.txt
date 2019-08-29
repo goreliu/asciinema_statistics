@@ -23389,3 +23389,4 @@
 264947@xterm-256color
 264953@linux
 264962@screen
+264985@xterm-256color
