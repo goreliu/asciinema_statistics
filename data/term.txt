@@ -23376,3 +23376,8 @@
 264803@xterm-kitty
 264805@xterm-256color
 264836@st-256color
+264860@xterm
+264861@xterm
+264862@xterm
+264864@xterm
+264866@xterm
