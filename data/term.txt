@@ -23375,3 +23375,4 @@
 264788@xterm-256color
 264803@xterm-kitty
 264805@xterm-256color
+264836@st-256color
