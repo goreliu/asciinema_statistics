@@ -23410,3 +23410,6 @@
 265141@xterm-256color
 265143@xterm-256color
 265151@xterm-256color
+265157@xterm-256color
+265158@xterm-256color
+265164@xterm-256color
