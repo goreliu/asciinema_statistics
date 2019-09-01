@@ -23429,3 +23429,4 @@
 265358@xterm-256color
 265359@xterm-256color
 265487@xterm-256color
+265501@xterm-256color
