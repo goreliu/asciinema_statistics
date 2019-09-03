@@ -23453,3 +23453,13 @@
 265720@xterm-kitty
 265723@xterm-256color
 265741@xterm-256color
+265744@xterm-256color
+265746@xterm-256color
+265747@xterm-256color
+265748@xterm-256color
+265749@xterm-256color
+265750@xterm-256color
+265751@xterm-256color
+265752@xterm-256color
+265754@xterm-256color
+265755@xterm-256color
