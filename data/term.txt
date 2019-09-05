@@ -23500,3 +23500,6 @@
 266124@xterm-256color
 266128@xterm-256color
 266141@xterm-256color
+266148@xterm-256color
+266156@xterm-256color
+266161@xterm-256color
