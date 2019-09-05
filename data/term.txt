@@ -23490,3 +23490,6 @@
 266011@xterm-256color
 266017@xterm-256color
 266039@xterm-256color
+266086@xterm-256color
+266088@screen
+266111@xterm-256color
