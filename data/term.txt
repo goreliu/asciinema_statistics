@@ -23493,3 +23493,7 @@
 266086@xterm-256color
 266088@screen
 266111@xterm-256color
+266119@xterm-256color
+266122@xterm-256color
+266123@xterm-256color
+266124@xterm-256color
