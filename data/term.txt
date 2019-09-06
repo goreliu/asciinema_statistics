@@ -23531,3 +23531,4 @@
 266347@xterm-256color
 266361@xterm-256color
 266363@screen-256color
+266373@xterm-256color
