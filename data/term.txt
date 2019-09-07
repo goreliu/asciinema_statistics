@@ -23529,6 +23529,7 @@
 266341@screen.xterm-256color
 266343@screen.xterm-256color
 266347@xterm-256color
+266348@xterm-256color
 266361@xterm-256color
 266363@screen-256color
 266373@xterm-256color
@@ -23540,3 +23541,5 @@
 266427@xterm-256color
 266434@xterm-256color
 266437@xterm-256color
+266469@xterm-256color
+266470@xterm-256color
