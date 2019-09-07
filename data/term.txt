@@ -23546,3 +23546,5 @@
 266472@xterm-256color
 266489@xterm-256color
 266491@xterm-256color
+266504@rxvt-unicode-256color
+266509@xterm-256color
