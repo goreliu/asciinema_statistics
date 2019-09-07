@@ -23545,3 +23545,4 @@
 266470@xterm-256color
 266472@xterm-256color
 266489@xterm-256color
+266491@xterm-256color
