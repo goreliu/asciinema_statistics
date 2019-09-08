@@ -23553,3 +23553,6 @@
 266585@xterm-256color
 266589@screen-256color
 266594@xterm-256color
+266597@xterm-256color
+266598@xterm-256color
+266599@xterm-256color
