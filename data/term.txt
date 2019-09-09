@@ -23572,3 +23572,11 @@
 266775@xterm-256color
 266780@xterm-256color
 266786@xterm-256color
+266849@xterm-256color
+266855@xterm-256color
+266856@xterm-256color
+266859@xterm-256color
+266861@xterm-256color
+266863@xterm-256color
+266868@xterm-256color
+266869@xterm-256color
