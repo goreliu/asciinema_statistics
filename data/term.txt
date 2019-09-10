@@ -23609,3 +23609,4 @@
 267322@xterm-256color
 267326@screen-256color
 267327@alacritty
+267362@xterm
