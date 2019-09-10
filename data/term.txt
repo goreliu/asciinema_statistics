@@ -23585,3 +23585,5 @@
 266928@xterm-256color
 266944@screen-256color
 266949@screen-256color
+266955@xterm-256color
+266956@screen-256color
