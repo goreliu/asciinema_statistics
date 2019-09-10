@@ -23611,3 +23611,4 @@
 267327@alacritty
 267362@xterm
 267366@xterm-256color
+267405@xterm-256color
