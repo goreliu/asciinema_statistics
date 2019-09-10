@@ -23589,3 +23589,4 @@
 266956@screen-256color
 266960@alacritty
 266962@xterm-256color
+266980@xterm-256color
