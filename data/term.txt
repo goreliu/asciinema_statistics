@@ -23672,4 +23672,10 @@
 267965@xterm-256color
 267969@xterm-256color
 267978@rxvt-unicode-256color
+267980@xterm-256color
 268004@screen
+268046@xterm
+268048@xterm-256color
+268049@xterm-256color
+268052@xterm-256color
+268053@xterm-256color
