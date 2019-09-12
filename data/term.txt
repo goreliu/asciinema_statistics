@@ -23671,3 +23671,5 @@
 267964@xterm-256color
 267965@xterm-256color
 267969@xterm-256color
+267978@rxvt-unicode-256color
+268004@screen
