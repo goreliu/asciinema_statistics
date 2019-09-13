@@ -23701,3 +23701,4 @@
 268317@xterm-256color
 268325@linux
 268327@xterm
+268330@xterm-256color
