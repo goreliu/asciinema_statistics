@@ -23694,3 +23694,5 @@
 268249@xterm-256color
 268253@xterm-256color
 268254@tmux-256color
+268282@xterm-256color
+268302@xterm
