@@ -23722,3 +23722,6 @@
 268533@xterm-256color
 268543@xterm-256color
 268546@xterm-256color
+268565@xterm-256color
+268567@xterm-256color
+268568@xterm-256color
