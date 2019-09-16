@@ -23749,3 +23749,7 @@
 268726@xterm-256color
 268728@xterm-256color
 268740@xterm-256color
+268751@screen
+268756@xterm-256color
+268758@xterm-256color
+268763@xterm-256color
