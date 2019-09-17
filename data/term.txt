@@ -23788,3 +23788,8 @@
 269092@xterm-256color
 269099@xterm
 269100@xterm-256color
+269102@xterm
+269104@xterm
+269107@xterm
+269108@xterm-256color
+269117@xterm
