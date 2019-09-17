@@ -23777,6 +23777,14 @@
 269034@xterm-256color
 269054@xterm-256color
 269063@xterm-256color
+269065@xterm
 269073@xterm-256color
 269074@xterm-256color
 269079@xterm-256color
+269083@xterm-256color
+269087@xterm-256color
+269090@xterm-256color
+269091@xterm-256color
+269092@xterm-256color
+269099@xterm
+269100@xterm-256color
