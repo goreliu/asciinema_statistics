@@ -23747,6 +23747,7 @@
 268711@xterm-256color
 268714@xterm-256color
 268726@xterm-256color
+268727@xterm-256color
 268728@xterm-256color
 268740@xterm-256color
 268751@screen
