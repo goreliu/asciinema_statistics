@@ -23775,3 +23775,4 @@
 269001@xterm-256color
 269013@xterm-256color
 269034@xterm-256color
+269054@xterm-256color
