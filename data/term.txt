@@ -23808,3 +23808,6 @@
 269193@xterm-256color
 269199@xterm-256color
 269209@xterm-256color
+269219@xterm-256color
+269222@xterm-256color
+269226@xterm-256color
