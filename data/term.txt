@@ -23857,3 +23857,4 @@
 269491@xterm-256color
 269496@xterm-256color
 269503@screen-256color
+269514@xterm-256color
