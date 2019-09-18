@@ -23799,3 +23799,7 @@
 269134@xterm
 269135@xterm
 269136@xterm
+269178@xterm
+269183@screen-256color
+269184@xterm-256color
+269185@xterm-256color
