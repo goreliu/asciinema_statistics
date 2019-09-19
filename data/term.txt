@@ -23863,3 +23863,6 @@
 269546@xterm-256color
 269547@xterm-kitty
 269562@xterm-256color
+269569@xterm-256color
+269571@xterm-256color
+269578@xterm-256color
