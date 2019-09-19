@@ -23862,3 +23862,4 @@
 269535@xterm-256color
 269546@xterm-256color
 269547@xterm-kitty
+269562@xterm-256color
