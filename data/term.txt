@@ -23901,3 +23901,5 @@
 269803@xterm-256color
 269804@xterm-256color
 269822@xterm-kitty
+269858@xterm-256color
+269859@xterm-256color
