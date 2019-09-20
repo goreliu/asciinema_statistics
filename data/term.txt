@@ -23885,3 +23885,11 @@
 269776@xterm-256color
 269778@xterm
 269779@xterm-256color
+269780@xterm-256color
+269781@xterm-256color
+269782@xterm-256color
+269783@xterm-256color
+269784@xterm-256color
+269786@xterm-256color
+269788@xterm-256color
+269791@xterm-256color
