@@ -23910,3 +23910,4 @@
 269977@xterm-256color
 269979@xterm-256color
 269982@st-256color
+269984@xterm-256color
