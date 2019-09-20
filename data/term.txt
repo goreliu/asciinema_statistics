@@ -23893,3 +23893,8 @@
 269786@xterm-256color
 269788@xterm-256color
 269791@xterm-256color
+269793@xterm-256color
+269795@xterm-256color
+269797@xterm-256color
+269799@xterm-256color
+269802@xterm-256color
