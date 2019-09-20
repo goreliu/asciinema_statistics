@@ -23900,3 +23900,4 @@
 269802@xterm-256color
 269803@xterm-256color
 269804@xterm-256color
+269822@xterm-kitty
