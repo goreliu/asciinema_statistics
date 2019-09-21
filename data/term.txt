@@ -23931,3 +23931,4 @@
 270082@xterm-256color
 270102@xterm-256color
 270133@xterm-256color
+270150@tmux-256color-italic
