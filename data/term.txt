@@ -23917,3 +23917,10 @@
 270040@xterm-256color
 270045@xterm-256color
 270046@xterm-256color
+270051@xterm-256color
+270052@xterm-256color
+270053@xterm-256color
+270054@xterm-256color
+270055@xterm-256color
+270056@xterm-256color
+270057@xterm-256color
