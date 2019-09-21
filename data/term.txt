@@ -23934,3 +23934,4 @@
 270150@tmux-256color-italic
 270154@unknown
 270156@xterm-256color
+270172@xterm-256color
