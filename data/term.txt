@@ -23969,3 +23969,7 @@
 270385@xterm-256color
 270386@xterm-256color
 270387@xterm-256color
+270388@xterm-256color
+270389@xterm-256color
+270392@xterm-256color
+270394@xterm-256color
