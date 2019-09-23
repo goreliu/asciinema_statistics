@@ -23950,3 +23950,11 @@
 270326@screen-256color
 270339@xterm-256color
 270345@xterm-256color
+270349@xterm-256color
+270350@xterm-256color
+270351@xterm-256color
+270355@xterm-256color
+270356@xterm-256color
+270362@xterm-256color
+270363@xterm-256color
+270367@tmux-256color
