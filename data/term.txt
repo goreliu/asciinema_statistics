@@ -23977,3 +23977,5 @@
 270408@xterm-256color
 270421@linux
 270428@cygwin
+270453@xterm-256color
+270462@xterm-kitty
