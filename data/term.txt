@@ -23960,3 +23960,12 @@
 270367@tmux-256color
 270371@xterm-256color
 270372@xterm-256color
+270375@xterm-256color
+270379@xterm-256color
+270380@xterm-256color
+270382@xterm-256color
+270383@xterm-256color
+270384@xterm-256color
+270385@xterm-256color
+270386@xterm-256color
+270387@xterm-256color
