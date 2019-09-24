@@ -23992,3 +23992,4 @@
 270610@screen-256color
 270617@xterm-256color
 270618@cygwin
+270651@screen
