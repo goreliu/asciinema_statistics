@@ -23990,3 +23990,5 @@
 270526@linux
 270570@xterm-256color
 270610@screen-256color
+270617@xterm-256color
+270618@cygwin
