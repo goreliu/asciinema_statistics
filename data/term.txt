@@ -24000,3 +24000,4 @@
 270744@xterm-256color
 270745@unknown
 270772@xterm-256color
+270790@xterm-256color
