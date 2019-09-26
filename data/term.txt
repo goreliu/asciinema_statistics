@@ -24030,3 +24030,4 @@
 271086@xterm-256color
 271088@xterm-256color
 271091@screen-256color
+271100@xterm-256color
