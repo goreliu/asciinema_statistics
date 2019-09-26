@@ -24017,3 +24017,8 @@
 270970@xterm
 270977@xterm-256color
 270985@xterm
+271007@xterm-256color
+271008@xterm-256color
+271010@xterm-256color
+271011@xterm-256color
+271012@xterm-256color
