@@ -24031,3 +24031,7 @@
 271088@xterm-256color
 271091@screen-256color
 271100@xterm-256color
+271127@st-256color
+271128@st-256color
+271129@st-256color
+271131@st-256color
