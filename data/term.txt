@@ -24025,3 +24025,5 @@
 271020@xterm-256color
 271024@xterm-256color
 271048@xterm-256color
+271068@xterm-256color
+271069@xterm-256color
