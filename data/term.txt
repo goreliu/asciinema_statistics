@@ -24037,3 +24037,4 @@
 271131@st-256color
 271141@xterm-256color-italic
 271142@xterm-256color-italic
+271144@xterm-256color
