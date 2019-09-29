@@ -24060,3 +24060,6 @@
 271389@xterm-256color
 271390@xterm-256color
 271393@xterm-256color
+271406@xterm-256color
+271407@xterm-256color
+271408@xterm-256color
