@@ -24069,3 +24069,7 @@
 271447@xterm-256color
 271448@xterm-256color
 271453@xterm-256color
+271462@xterm-256color
+271464@xterm-256color
+271482@xterm-256color
+271486@xterm-256color
