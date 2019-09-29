@@ -24059,3 +24059,4 @@
 271382@st-256color
 271389@xterm-256color
 271390@xterm-256color
+271393@xterm-256color
