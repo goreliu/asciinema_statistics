@@ -24143,3 +24143,12 @@
 271726@xterm
 271730@xterm-256color
 271731@xterm-256color
+271732@xterm-256color
+271733@xterm-256color
+271735@xterm-256color
+271737@xterm-256color
+271738@xterm-256color
+271739@xterm-256color
+271740@xterm-256color
+271741@xterm-256color
+271742@xterm-256color
