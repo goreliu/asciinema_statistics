@@ -24126,3 +24126,7 @@
 271660@screen-256color
 271663@xterm-256color-italic
 271667@xterm-256color
+271682@xterm-256color
+271683@xterm-256color
+271691@xterm-256color
+271697@xterm-256color
