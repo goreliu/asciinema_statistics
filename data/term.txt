@@ -24110,3 +24110,15 @@
 271613@xterm-256color
 271614@xterm-256color
 271631@xterm-256color
+271636@xterm-256color
+271642@xterm-256color
+271644@xterm-256color
+271645@xterm-256color
+271649@xterm-256color
+271650@xterm-256color
+271652@xterm-256color
+271653@xterm-256color
+271654@xterm-256color
+271655@xterm-256color
+271656@xterm-256color
+271658@xterm-256color
