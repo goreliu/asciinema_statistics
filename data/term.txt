@@ -24091,3 +24091,11 @@
 271562@xterm-256color
 271564@xterm-256color
 271570@xterm-256color
+271571@xterm-256color
+271573@xterm-256color
+271575@xterm-256color
+271576@xterm-256color
+271577@xterm-256color
+271579@xterm-256color
+271581@xterm-256color
+271583@xterm-256color
