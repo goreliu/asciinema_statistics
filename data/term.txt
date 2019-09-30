@@ -24084,3 +24084,10 @@
 271547@xterm
 271555@xterm-256color
 271557@xterm-256color
+271558@xterm-256color
+271559@xterm-256color
+271560@xterm-256color
+271561@xterm-256color
+271562@xterm-256color
+271564@xterm-256color
+271570@xterm-256color
