@@ -24101,3 +24101,11 @@
 271582@rxvt-unicode-256color
 271583@xterm-256color
 271584@xterm-256color
+271605@xterm-256color
+271606@xterm-256color
+271607@xterm-256color
+271609@xterm-256color
+271610@xterm-256color
+271612@xterm-256color
+271613@xterm-256color
+271614@xterm-256color
