@@ -24129,4 +24129,9 @@
 271682@xterm-256color
 271683@xterm-256color
 271691@xterm-256color
+271696@xterm-256color
 271697@xterm-256color
+271705@xterm-256color
+271709@xterm-256color
+271712@xterm-256color
+271714@xterm-256color
