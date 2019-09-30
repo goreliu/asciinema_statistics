@@ -24082,3 +24082,5 @@
 271542@xterm-256color
 271543@xterm
 271547@xterm
+271555@xterm-256color
+271557@xterm-256color
