@@ -24131,7 +24131,15 @@
 271691@xterm-256color
 271696@xterm-256color
 271697@xterm-256color
+271701@xterm-256color
 271705@xterm-256color
 271709@xterm-256color
 271712@xterm-256color
 271714@xterm-256color
+271717@xterm-256color
+271720@xterm-256color
+271721@xterm-256color
+271725@xterm-256color
+271726@xterm
+271730@xterm-256color
+271731@xterm-256color
