@@ -24162,3 +24162,5 @@
 271832@xterm
 271844@xterm-256color
 271846@ansi
+271885@xterm-256color
+271888@xterm-256color
