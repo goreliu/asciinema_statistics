@@ -24159,3 +24159,4 @@
 271793@xterm-256color
 271808@xterm-256color
 271816@xterm-256color
+271832@xterm
