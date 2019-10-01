@@ -24167,3 +24167,5 @@
 271921@linux
 271934@linux
 271937@linux
+271945@xterm-256color
+271946@xterm-256color
