@@ -24156,3 +24156,4 @@
 271772@xterm-256color
 271774@xterm-256color
 271786@screen-256color
+271793@xterm-256color
