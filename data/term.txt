@@ -24189,3 +24189,5 @@
 272147@xterm-256color
 272148@xterm-256color
 272149@xterm-256color
+272184@xterm-256color
+272185@xterm-256color
