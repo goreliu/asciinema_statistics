@@ -24164,6 +24164,7 @@
 271846@ansi
 271885@xterm-256color
 271888@xterm-256color
+271892@xterm-256color
 271921@linux
 271934@linux
 271937@linux
@@ -24175,3 +24176,4 @@
 271975@xterm-256color
 271981@xterm-256color
 271991@xterm-256color
+272043@xterm-256color-italic
