@@ -24171,3 +24171,5 @@
 271946@xterm-256color
 271958@xterm
 271962@xterm-256color
+271973@xterm-256color
+271975@xterm-256color
