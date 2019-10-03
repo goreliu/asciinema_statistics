@@ -24198,3 +24198,4 @@
 272202@xterm-256color
 272212@xterm-256color
 272220@xterm-256color
+272227@xterm-256color
