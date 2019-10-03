@@ -24199,3 +24199,7 @@
 272212@xterm-256color
 272220@xterm-256color
 272227@xterm-256color
+272229@xterm-256color
+272235@xterm-256color
+272237@xterm-256color
+272238@xterm-256color
