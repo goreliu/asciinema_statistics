@@ -24214,3 +24214,4 @@
 272370@xterm-256color
 272380@xterm-kitty
 272382@xterm-256color
+272386@xterm
