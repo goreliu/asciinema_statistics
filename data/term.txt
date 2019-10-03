@@ -24192,3 +24192,4 @@
 272184@xterm-256color
 272185@xterm-256color
 272191@xterm-256color
+272193@xterm-256color
