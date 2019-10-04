@@ -24215,3 +24215,4 @@
 272380@xterm-kitty
 272382@xterm-256color
 272386@xterm
+272395@xterm-256color
