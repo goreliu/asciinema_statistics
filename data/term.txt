@@ -24226,3 +24226,6 @@
 272426@xterm-256color
 272451@xterm-256color
 272456@xterm-256color
+272462@xterm-kitty
+272468@xterm-256color
+272471@xterm-256color
