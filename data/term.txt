@@ -24235,3 +24235,4 @@
 272524@xterm-256color
 272533@xterm-256color
 272545@xterm-termite
+272560@xterm-256color
