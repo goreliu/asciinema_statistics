@@ -24231,3 +24231,6 @@
 272471@xterm-256color
 272477@xterm-256color
 272507@xterm-256color
+272523@rxvt-unicode-256color
+272524@xterm-256color
+272533@xterm-256color
