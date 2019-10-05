@@ -24240,3 +24240,6 @@
 272584@xterm-256color
 272604@screen-256color
 272608@screen-256color
+272622@xterm-256color
+272634@xterm-256color
+272640@xterm-256color
