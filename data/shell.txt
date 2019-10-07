@@ -24262,3 +24262,5 @@
 272863@powershell.exe
 272866@powershell.exe
 272891@bash
+272903@fish
+272905@fish
