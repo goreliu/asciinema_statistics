@@ -24261,3 +24261,4 @@
 272844@xterm-256color
 272863@JetBrains-JediTerm
 272866@JetBrains-JediTerm
+272891@xterm-256color
