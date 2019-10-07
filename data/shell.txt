@@ -24258,3 +24258,6 @@
 272761@bash
 272781@bash
 272799@bash
+272844@zsh
+272863@powershell.exe
+272866@powershell.exe
