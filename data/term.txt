@@ -24273,3 +24273,6 @@
 272966@xterm-256color
 272971@rxvt
 272978@xterm-256color
+272979@xterm-256color
+272981@xterm-256color
+272982@xterm-256color
