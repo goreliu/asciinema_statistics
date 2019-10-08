@@ -24278,3 +24278,4 @@
 272982@xterm-256color
 272989@xterm-256color
 272992@linux
+272994@rxvt-unicode-256color
