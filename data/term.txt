@@ -24276,3 +24276,5 @@
 272979@xterm-256color
 272981@xterm-256color
 272982@xterm-256color
+272989@xterm-256color
+272992@linux
