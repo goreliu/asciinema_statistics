@@ -24271,3 +24271,5 @@
 272953@xterm-256color
 272954@xterm-256color
 272966@xterm-256color
+272971@rxvt
+272978@xterm-256color
