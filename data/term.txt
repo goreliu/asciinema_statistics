@@ -24300,3 +24300,4 @@
 273135@xterm-256color
 273138@tmux-256color
 273154@xterm-256color
+273193@xterm-256color
