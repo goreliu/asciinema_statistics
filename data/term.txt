@@ -24303,3 +24303,5 @@
 273193@xterm-256color
 273213@xterm-256color
 273214@xterm
+273224@xterm
+273226@xterm-256color
