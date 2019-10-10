@@ -24338,3 +24338,5 @@
 273571@xterm-256color
 273574@xterm
 273578@xterm
+273601@screen-256color
+273603@xterm-256color
