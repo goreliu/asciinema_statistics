@@ -24340,3 +24340,7 @@
 273578@xterm
 273601@screen-256color
 273603@xterm-256color
+273613@xterm
+273615@xterm
+273618@xterm
+273628@xterm-256color
