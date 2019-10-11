@@ -24357,4 +24357,8 @@
 273739@xterm
 273741@xterm-256color
 273763@xterm
+273766@xterm-256color
+273767@xterm-256color
 273768@xterm
+273775@xterm-256color
+273779@xterm-256color
