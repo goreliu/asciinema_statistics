@@ -24349,3 +24349,4 @@
 273673@rxvt-unicode-256color
 273683@xterm-256color
 273687@xterm-256color
+273698@xterm-256color
