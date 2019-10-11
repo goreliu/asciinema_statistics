@@ -24365,3 +24365,4 @@
 273782@xterm-256color
 273785@xterm-256color
 273786@xterm-256color
+273793@xterm-256color
