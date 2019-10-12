@@ -24380,3 +24380,4 @@
 273854@xterm-256color
 273859@xterm-256color
 273883@xterm-256color
+273889@screen-256color
