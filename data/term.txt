@@ -24415,3 +24415,5 @@
 274195@xterm
 274210@xterm-256color
 274211@xterm-256color
+274238@xterm-256color
+274244@xterm-256color
