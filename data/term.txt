@@ -24405,4 +24405,10 @@
 274063@xterm-256color
 274085@cygwin
 274150@xterm
+274151@xterm-256color
+274152@xterm-256color
 274161@xterm
+274188@xterm-256color
+274191@xterm-256color
+274193@xterm-256color
+274195@xterm
