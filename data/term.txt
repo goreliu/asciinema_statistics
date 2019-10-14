@@ -24425,3 +24425,11 @@
 274290@xterm-256color
 274291@xterm
 274293@xterm-256color
+274298@xterm-256color
+274299@xterm-256color
+274300@xterm-256color
+274301@xterm-256color
+274302@xterm-256color
+274304@xterm-256color
+274308@xterm-256color
+274309@xterm-256color
