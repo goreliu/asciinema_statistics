@@ -24439,3 +24439,5 @@
 274350@xterm-color
 274352@xterm
 274353@xterm-color
+274355@xterm-color
+274359@xterm
