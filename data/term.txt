@@ -24452,3 +24452,6 @@
 274398@xterm-color
 274399@xterm-color
 274400@xterm-color
+274420@screen-256color-bce
+274422@screen-256color-bce
+274423@xterm
