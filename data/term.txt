@@ -24455,3 +24455,4 @@
 274420@screen-256color-bce
 274422@screen-256color-bce
 274423@xterm
+274439@rxvt-unicode-256color
