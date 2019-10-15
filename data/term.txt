@@ -24458,3 +24458,4 @@
 274439@rxvt-unicode-256color
 274449@xterm-256color
 274462@xterm-256color
+274468@xterm-256color
