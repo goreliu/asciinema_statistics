@@ -24459,3 +24459,7 @@
 274449@xterm-256color
 274462@xterm-256color
 274468@xterm-256color
+274492@xterm-256color
+274493@xterm-256color
+274494@xterm-256color
+274495@xterm-256color
