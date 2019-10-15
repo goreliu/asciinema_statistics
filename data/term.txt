@@ -24436,3 +24436,6 @@
 274331@rxvt-unicode-256color
 274344@xterm-color
 274346@xterm-color
+274350@xterm-color
+274352@xterm
+274353@xterm-color
