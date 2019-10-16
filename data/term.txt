@@ -24479,3 +24479,10 @@
 274654@xterm-256color
 274671@xterm-256color
 274703@tmux-256color
+274728@xterm-256color
+274730@xterm-256color
+274737@xterm-256color
+274739@xterm-256color
+274740@xterm-256color
+274741@cygwin
+274742@cygwin
