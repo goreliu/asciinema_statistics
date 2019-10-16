@@ -24487,3 +24487,4 @@
 274741@cygwin
 274742@cygwin
 274780@xterm-kitty
+274807@xterm-256color
