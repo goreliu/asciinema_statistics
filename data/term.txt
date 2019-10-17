@@ -24504,3 +24504,4 @@
 275074@xterm-256color
 275080@xterm-256color
 275090@xterm-256color
+275098@cygwin
