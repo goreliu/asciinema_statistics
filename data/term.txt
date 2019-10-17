@@ -24492,3 +24492,6 @@
 274840@cygwin
 274854@xterm-256color
 274896@xterm-256color
+274910@xterm-256color
+274914@xterm-256color
+274915@xterm-256color
