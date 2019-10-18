@@ -24515,3 +24515,4 @@
 275235@xterm
 275237@xterm-256color
 275245@xterm-256color
+275265@xterm-256color
