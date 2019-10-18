@@ -24521,6 +24521,7 @@
 275323@xterm-256color
 275329@xterm-256color
 275339@xterm-256color
+275343@xterm-256color
 275349@xterm-256color
 275356@xterm-256color
 275357@xterm-256color
@@ -24529,3 +24530,5 @@
 275375@rxvt-unicode-256color
 275378@xterm
 275381@xterm-256color
+275394@xterm-256color
+275403@xterm-256color
