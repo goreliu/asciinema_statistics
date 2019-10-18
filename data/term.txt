@@ -24510,3 +24510,4 @@
 275170@xterm
 275199@xterm
 275206@xterm
+275225@xterm-256color
