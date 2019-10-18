@@ -24511,3 +24511,7 @@
 275199@xterm
 275206@xterm
 275225@xterm-256color
+275234@screen.xterm-256color
+275235@xterm
+275237@xterm-256color
+275245@xterm-256color
