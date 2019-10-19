@@ -24576,3 +24576,5 @@
 275668@xterm-256color
 275677@xterm-256color
 275683@xterm-256color
+275690@cygwin
+275697@xterm
