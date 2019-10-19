@@ -24541,3 +24541,4 @@
 275474@xterm-kitty
 275479@cygwin
 275480@xterm-256color
+275486@xterm-256color
