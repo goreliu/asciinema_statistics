@@ -24538,3 +24538,4 @@
 275434@xterm-256color
 275449@xterm-256color
 275458@xterm-256color
+275474@xterm-kitty
