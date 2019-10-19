@@ -24550,3 +24550,11 @@
 275513@xterm-256color
 275514@xterm-256color
 275515@xterm-256color
+275521@xterm-256color
+275529@xterm-256color
+275530@xterm-256color
+275531@xterm-256color
+275532@xterm-256color
+275533@xterm-256color
+275534@xterm-256color
+275535@xterm-256color
