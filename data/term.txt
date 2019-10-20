@@ -24599,3 +24599,4 @@
 275825@xterm-256color
 275834@xterm-256color
 275835@xterm-256color
+275847@xterm-256color
