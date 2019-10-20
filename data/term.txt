@@ -24608,3 +24608,8 @@
 275876@xterm-256color
 275881@xterm-256color
 275890@xterm-256color
+275896@xterm-256color
+275897@xterm-256color
+275901@xterm-256color
+275903@xterm-256color
+275904@xterm-256color
