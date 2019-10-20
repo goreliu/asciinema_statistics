@@ -24600,3 +24600,6 @@
 275834@xterm-256color
 275835@xterm-256color
 275847@xterm-256color
+275862@xterm-256color
+275866@xterm-256color
+275869@xterm-256color
