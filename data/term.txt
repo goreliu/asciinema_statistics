@@ -24665,3 +24665,4 @@
 276346@xterm
 276350@xterm-256color
 276377@xterm-256color
+276417@xterm-256color
