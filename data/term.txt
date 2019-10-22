@@ -24654,3 +24654,5 @@
 276212@xterm-256color
 276213@xterm-256color
 276262@xterm-256color
+276276@st-256color
+276278@alacritty
