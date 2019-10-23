@@ -24676,3 +24676,7 @@
 276464@xterm-256color
 276472@xterm-256color
 276500@xterm
+276550@xterm-256color
+276551@xterm-256color
+276552@screen-256color
+276560@screen
