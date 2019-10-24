@@ -24703,3 +24703,6 @@
 276797@xterm-256color
 276809@xterm-256color
 276814@xterm-256color
+276822@xterm-256color
+276829@xterm-256color
+276830@xterm-256color
