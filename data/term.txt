@@ -24720,3 +24720,6 @@
 276973@xterm-256color
 276985@screen-256color
 277015@xterm-256color
+277040@xterm-256color
+277043@xterm-256color
+277050@xterm-256color
