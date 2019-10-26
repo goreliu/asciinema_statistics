@@ -24736,3 +24736,4 @@
 277171@xterm-256color
 277176@xterm-256color
 277180@xterm-256color
+277200@xterm
