@@ -24728,3 +24728,5 @@
 277056@xterm-256color
 277059@rxvt-unicode-256color
 277066@xterm-256color
+277116@xterm-256color
+277128@xterm-color
