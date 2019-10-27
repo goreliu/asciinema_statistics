@@ -24747,3 +24747,5 @@
 277219@xterm-termite
 277233@xterm
 277236@xterm-256color
+277253@xterm-256color
+277254@rxvt-unicode-256color
