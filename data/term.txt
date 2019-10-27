@@ -24741,6 +24741,7 @@
 277211@xterm
 277212@xterm
 277215@xterm
+277216@xterm-256color
 277217@xterm
 277218@xterm-termite
 277219@xterm-termite
