@@ -24750,3 +24750,4 @@
 277253@xterm-256color
 277254@rxvt-unicode-256color
 277268@xterm-256color
+277304@xterm-256color
