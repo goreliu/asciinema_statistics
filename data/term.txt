@@ -24742,3 +24742,5 @@
 277212@xterm
 277215@xterm
 277217@xterm
+277218@xterm-termite
+277219@xterm-termite
