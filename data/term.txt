@@ -24745,3 +24745,4 @@
 277218@xterm-termite
 277219@xterm-termite
 277233@xterm
+277236@xterm-256color
