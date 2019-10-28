@@ -24759,3 +24759,4 @@
 277347@xterm-256color
 277349@xterm
 277364@screen
+277404@xterm
