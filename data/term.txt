@@ -24760,3 +24760,4 @@
 277349@xterm
 277364@screen
 277404@xterm
+277448@xterm-256color
