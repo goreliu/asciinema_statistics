@@ -24774,3 +24774,4 @@
 277715@xterm
 277716@xterm
 277717@xterm
+277724@xterm-256color
