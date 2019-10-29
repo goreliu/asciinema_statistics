@@ -24768,6 +24768,7 @@
 277587@xterm-256color
 277621@xterm
 277634@xterm
+277675@xterm-256color
 277693@xterm-256color
 277713@xterm
 277714@xterm
@@ -24775,3 +24776,7 @@
 277716@xterm
 277717@xterm
 277724@xterm-256color
+277731@xterm-256color
+277735@xterm-256color
+277736@xterm
+277738@rxvt-unicode-256color
