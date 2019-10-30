@@ -24789,3 +24789,4 @@
 277801@xterm-256color
 277820@xterm
 277841@xterm
+277846@xterm-256color
