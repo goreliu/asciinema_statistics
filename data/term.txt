@@ -24807,3 +24807,4 @@
 278055@xterm
 278056@xterm
 278057@xterm-256color
+278065@xterm
