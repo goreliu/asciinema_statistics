@@ -24808,3 +24808,8 @@
 278056@xterm
 278057@xterm-256color
 278065@xterm
+278088@xterm-256color
+278094@xterm-256color
+278095@xterm-256color
+278096@xterm-256color
+278100@xterm-256color
