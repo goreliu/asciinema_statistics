@@ -24859,3 +24859,6 @@
 278437@xterm-256color
 278443@xterm-256color
 278453@xterm-256color
+278462@st-256color
+278464@xterm-256color
+278468@st-256color
