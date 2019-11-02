@@ -24899,3 +24899,4 @@
 278664@xterm
 278665@xterm
 278670@xterm-256color
+278672@xterm-256color
