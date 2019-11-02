@@ -24881,3 +24881,8 @@
 278598@xterm
 278599@xterm
 278601@xterm-256color
+278610@screen-256color
+278611@xterm-256color
+278613@xterm-256color
+278614@xterm-256color
+278615@xterm-256color
