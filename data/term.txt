@@ -24909,4 +24909,7 @@
 278770@xterm-256color
 278772@xterm-256color
 278774@xterm-256color
+278775@xterm-256color
 278779@xterm-256color
+278785@xterm-256color
+278798@xterm-256color
