@@ -24926,3 +24926,6 @@
 278916@xterm-256color
 278917@xterm-256color
 278920@xterm-256color
+278933@xterm-256color
+278935@xterm-256color
+278937@xterm-256color
