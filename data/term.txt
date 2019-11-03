@@ -24906,10 +24906,14 @@
 278743@xterm-256color
 278747@xterm-256color
 278756@xterm-256color
+278759@xterm-256color
 278770@xterm-256color
 278772@xterm-256color
 278774@xterm-256color
 278775@xterm-256color
 278779@xterm-256color
 278785@xterm-256color
+278794@xterm-256color
 278798@xterm-256color
+278800@xterm-256color
+278803@xterm-256color
