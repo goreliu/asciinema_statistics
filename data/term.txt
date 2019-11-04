@@ -24929,3 +24929,4 @@
 278933@xterm-256color
 278935@xterm-256color
 278937@xterm-256color
+278961@xterm-256color
