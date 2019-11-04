@@ -24961,3 +24961,7 @@
 279178@xterm-256color
 279180@xterm-256color
 279191@xterm-256color
+279194@xterm-256color
+279195@xterm-256color
+279197@tmux-256color
+279206@screen-256color
