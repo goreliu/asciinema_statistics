@@ -24956,3 +24956,8 @@
 279137@xterm-256color
 279145@xterm-256color
 279146@screen
+279160@xterm-256color
+279174@xterm-256color
+279178@xterm-256color
+279180@xterm-256color
+279191@xterm-256color
