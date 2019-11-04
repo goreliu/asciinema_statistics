@@ -24954,3 +24954,5 @@
 279120@xterm-256color
 279126@xterm-256color
 279137@xterm-256color
+279145@xterm-256color
+279146@screen
