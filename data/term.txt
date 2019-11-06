@@ -25008,3 +25008,4 @@
 279547@xterm-256color
 279549@xterm-256color
 279568@xterm
+279586@xterm-256color
