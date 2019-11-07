@@ -25015,3 +25015,4 @@
 279668@xterm-256color
 279680@xterm
 279683@xterm
+279690@xterm-256color
