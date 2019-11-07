@@ -25031,3 +25031,5 @@
 279798@xterm-termite
 279799@xterm-termite
 279800@xterm-256color
+279841@xterm-256color
+279842@xterm-256color
