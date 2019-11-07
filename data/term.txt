@@ -25033,3 +25033,8 @@
 279800@xterm-256color
 279841@xterm-256color
 279842@xterm-256color
+279851@xterm-256color
+279852@xterm-256color
+279855@xterm-256color
+279858@xterm-256color
+279862@xterm-256color
