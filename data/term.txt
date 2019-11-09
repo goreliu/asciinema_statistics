@@ -25069,3 +25069,5 @@
 280126@xterm-256color
 280153@xterm-256color
 280158@xterm-256color
+280177@xterm-256color
+280180@xterm-256color
