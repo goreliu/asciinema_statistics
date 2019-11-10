@@ -25082,3 +25082,8 @@
 280261@xterm-256color
 280274@xterm-256color
 280293@xterm-256color
+280310@xterm-256color
+280313@xterm-256color
+280314@xterm-256color
+280315@xterm-256color
+280316@xterm-kitty
