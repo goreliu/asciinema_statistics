@@ -25122,3 +25122,6 @@
 280562@xterm-256color
 280566@screen-256color
 280567@xterm-256color
+280576@xterm-256color
+280577@xterm-256color
+280587@xterm-256color
