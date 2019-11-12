@@ -25140,3 +25140,5 @@
 280740@alacritty
 280755@xterm-256color
 280792@xterm-256color
+280795@xterm-256color
+280800@xterm-256color
