@@ -25142,3 +25142,7 @@
 280792@xterm-256color
 280795@xterm-256color
 280800@xterm-256color
+280811@xterm-256color
+280813@xterm-256color
+280815@xterm-256color
+280818@rxvt-unicode-256color
