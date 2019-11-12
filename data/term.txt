@@ -25138,3 +25138,4 @@
 280724@xterm-256color
 280732@xterm-256color
 280740@alacritty
+280755@xterm-256color
