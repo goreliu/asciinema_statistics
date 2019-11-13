@@ -25164,3 +25164,4 @@
 281016@xterm-256color
 281017@screen
 281030@xterm
+281050@xterm-kitty
