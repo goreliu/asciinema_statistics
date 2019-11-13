@@ -25160,3 +25160,7 @@
 281004@xterm-256color
 281012@xterm-256color
 281013@xterm-256color
+281014@xterm-256color
+281016@xterm-256color
+281017@screen
+281030@xterm
