@@ -25153,3 +25153,6 @@
 280928@linux
 280949@xterm-256color
 280952@xterm-256color
+280963@xterm-256color
+280964@xterm-256color
+280965@xterm-256color
