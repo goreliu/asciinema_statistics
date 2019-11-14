@@ -25186,3 +25186,12 @@
 281262@xterm-256color
 281266@xterm-256color
 281267@xterm-256color
+281283@xterm-256color
+281284@xterm-256color
+281285@xterm-256color
+281286@xterm-256color
+281287@xterm-256color
+281288@xterm-256color
+281289@xterm-256color
+281290@xterm-256color
+281293@xterm-256color
