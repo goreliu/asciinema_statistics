@@ -25205,3 +25205,5 @@
 281339@xterm-256color
 281342@xterm-256color
 281343@rxvt-unicode-256color
+281361@xterm-256color
+281363@xterm-256color
