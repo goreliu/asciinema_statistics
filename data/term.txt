@@ -25199,3 +25199,4 @@
 281303@xterm
 281305@xterm-256color
 281306@xterm-256color
+281307@xterm-256color
