@@ -25211,3 +25211,6 @@
 281405@screen
 281411@xterm-256color
 281421@xterm-256color
+281451@xterm-termite
+281454@xterm
+281456@xterm-256color
