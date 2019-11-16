@@ -25238,3 +25238,4 @@
 281628@xterm-256color
 281636@xterm-256color
 281651@st-256color
+281673@xterm-256color
