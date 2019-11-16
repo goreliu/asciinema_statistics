@@ -25239,3 +25239,6 @@
 281636@xterm-256color
 281651@st-256color
 281673@xterm-256color
+281688@rxvt-unicode-256color
+281692@rxvt-unicode-256color
+281693@xterm-256color
