@@ -25270,3 +25270,8 @@
 281901@xterm-256color
 281902@xterm-256color
 281912@xterm-256color
+281916@xterm-256color
+281920@xterm-256color
+281922@xterm-256color
+281927@xterm-256color
+281932@xterm-256color
