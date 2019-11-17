@@ -25275,3 +25275,16 @@
 281922@xterm-256color
 281927@xterm-256color
 281932@xterm-256color
+281934@xterm-256color
+281935@xterm-256color
+281937@xterm-256color
+281940@xterm-256color
+281944@xterm-256color
+281947@xterm-256color
+281948@xterm-256color
+281950@xterm-256color
+281952@xterm-256color
+281954@xterm-256color
+281956@xterm-256color
+281958@xterm-256color
+281959@xterm-256color
