@@ -103,8 +103,7 @@ update_statistics() {
             echo $i@${term:-unknown} >> term.txt
             echo $i@${user:-unknown} >> user.txt
         } else {
-            echo error
-            return 1
+            sed -i "/^$i$/d" data/list.txt
         }
 
         [[ -d casts && ! -f casts/$i.cast.gz ]] && {
