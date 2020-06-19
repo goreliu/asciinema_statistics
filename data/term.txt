@@ -36527,3 +36527,4 @@
 341147@unknown
 341148@unknown
 341149@unknown
+341237@xterm-256color
