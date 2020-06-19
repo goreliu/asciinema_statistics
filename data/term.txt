@@ -36532,3 +36532,5 @@
 341299@xterm-256color
 341303@xterm-256color
 341311@xterm-256color
+341319@xterm-256color
+341322@xterm-256color
