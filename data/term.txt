@@ -27588,6 +27588,7 @@
 303009@xterm
 303013@xterm
 303020@xterm-256color
+303022@xterm
 303026@xterm-256color
 303027@xterm
 303034@xterm
@@ -28268,6 +28269,7 @@
 306059@xterm
 306064@xterm
 306068@xterm
+306069@xterm
 306070@xterm-256color
 306071@xterm
 306072@xterm
@@ -33043,6 +33045,7 @@
 326398@xterm
 326401@xterm-256color
 326402@xterm-256color
+326412@xterm
 326416@xterm
 326422@xterm
 326427@xterm

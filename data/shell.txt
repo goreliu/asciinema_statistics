@@ -27588,6 +27588,7 @@
 303009@unknown
 303013@bash
 303020@zsh
+303022@unknown
 303026@zsh
 303027@unknown
 303034@unknown
@@ -28268,6 +28269,7 @@
 306059@unknown
 306064@zsh
 306068@unknown
+306069@unknown
 306070@bash
 306071@unknown
 306072@unknown
@@ -33043,6 +33045,7 @@
 326398@unknown
 326401@fish
 326402@bash
+326412@unknown
 326416@unknown
 326422@unknown
 326427@unknown
