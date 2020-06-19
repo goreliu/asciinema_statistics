@@ -36488,3 +36488,16 @@
 340873@xterm-256color
 340879@xterm-256color
 340908@xterm-256color
+340941@xterm-256color
+340968@xterm-256color
+340985@xterm-256color
+341004@xterm-256color
+341009@xterm-256color
+341012@xterm-256color
+341013@xterm-256color
+341014@xterm-256color
+341015@xterm-256color
+341018@xterm-256color
+341023@xterm
+341034@xterm-256color
+341036@xterm

@@ -103,6 +103,7 @@ update_statistics() {
             echo $i@${term:-unknown} >> term.txt
             echo $i@${user:-unknown} >> user.txt
         } else {
+            echo $i >> error.txt
             sed -i "/^$i$/d" data/list.txt
         }
 
