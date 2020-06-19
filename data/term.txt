@@ -36503,3 +36503,9 @@
 341036@xterm
 341057@xterm-256color
 341097@xterm-256color
+341106@unknown
+341107@unknown
+341108@unknown
+341109@unknown
+341114@tmux
+341120@tmux
