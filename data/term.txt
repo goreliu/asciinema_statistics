@@ -36540,3 +36540,6 @@
 341345@xterm
 341361@xterm-256color
 341395@xterm
+341419@xterm
+341420@xterm
+341423@xterm-256color
