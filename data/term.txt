@@ -36549,3 +36549,4 @@
 341461@xterm-256color
 341473@xterm-256color
 341497@xterm-256color
+341503@xterm
