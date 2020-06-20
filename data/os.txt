@@ -24259,8 +24259,8 @@
 272781@Linux
 272799@Linux
 272844@macOS
-272863@Windows 10
-272866@Windows 10
+272863@Windows
+272866@Windows
 272891@macOS
 272903@macOS
 272905@macOS
@@ -26900,7 +26900,7 @@
 298600@Linux
 298605@Linux
 298616@Linux
-298633@Windows 6
+298633@Windows
 298698@Linux
 298707@Linux
 298722@macOS
@@ -27362,7 +27362,7 @@
 302128@Linux
 302131@Linux
 302140@Linux
-302157@Windows 6
+302157@Windows
 302160@macOS
 302163@Linux
 302164@Linux
@@ -33766,7 +33766,7 @@
 329449@Linux
 329450@Linux
 329453@Linux
-329477@Windows 6
+329477@Windows
 329481@Linux
 329485@Linux
 329488@Linux
