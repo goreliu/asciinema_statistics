@@ -36544,3 +36544,4 @@
 341420@xterm
 341423@xterm-256color
 341424@xterm-256color
+341429@screen
