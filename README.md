@@ -1,7 +1,5 @@
 # asciinema_statistics
 
-**No longer maintained.**
-
 A statistics page of [asciinema.org](https://asciinema.org/explore/public), visit [here](https://goreliu.github.io/asciinema_statistics/).
 
 A screenshot:
