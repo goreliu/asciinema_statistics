@@ -36567,3 +36567,4 @@
 341730@xterm-256color
 341747@xterm-256color
 341762@rxvt-256color
+341765@rxvt-256color
