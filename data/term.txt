@@ -36556,3 +36556,4 @@
 341535@xterm-256color
 341541@xterm-256color
 341553@xterm-256color
+341561@xterm-256color
