@@ -36560,3 +36560,6 @@
 341671@xterm-256color
 341673@xterm-256color
 341674@xterm-256color
+341690@xterm-256color
+341691@xterm-256color
+341692@xterm-256color
