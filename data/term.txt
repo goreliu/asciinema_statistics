@@ -36571,3 +36571,4 @@
 341788@xterm-256color
 341801@screen-256color
 341806@xterm
+341864@xterm-256color
