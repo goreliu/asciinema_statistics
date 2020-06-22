@@ -36579,3 +36579,5 @@
 341886@xterm-256color
 341897@xterm-256color
 341901@xterm-256color
+341936@xterm-256color
+341938@xterm-256color
