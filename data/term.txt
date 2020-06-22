@@ -36569,3 +36569,4 @@
 341762@rxvt-256color
 341765@rxvt-256color
 341788@xterm-256color
+341801@screen-256color
