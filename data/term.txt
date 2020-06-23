@@ -36601,3 +36601,4 @@
 342071@xterm-256color
 342086@xterm-256color
 342092@xterm-256color
+342143@xterm-256color
