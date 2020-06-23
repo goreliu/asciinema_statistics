@@ -36609,3 +36609,4 @@
 342198@rxvt-256color
 342201@xterm
 342203@linux
+342215@xterm-256color
