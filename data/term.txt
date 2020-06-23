@@ -36603,3 +36603,7 @@
 342092@xterm-256color
 342143@xterm-256color
 342176@xterm-256color
+342181@xterm-256color
+342188@xterm-256color
+342193@xterm-256color
+342198@rxvt-256color
