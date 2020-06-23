@@ -36589,3 +36589,6 @@
 341985@xterm
 342001@xterm-256color
 342004@xterm-256color
+342011@xterm-256color
+342012@xterm-256color
+342014@xterm-256color
