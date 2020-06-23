@@ -36598,3 +36598,5 @@
 342044@xterm-256color
 342058@xterm-256color
 342071@xterm-256color
+342086@xterm-256color
+342092@xterm-256color
