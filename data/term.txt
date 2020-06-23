@@ -36592,5 +36592,7 @@
 342011@xterm-256color
 342012@xterm-256color
 342014@xterm-256color
+342040@xterm-256color
 342042@xterm-256color
 342043@xterm-256color
+342044@xterm-256color
