@@ -74,7 +74,7 @@ update_statistics() {
             os='FreeBSD'
             ;;
 
-            (*windows*)
+            (*windows*|*Windows*)
             os='Windows'
             ;;
 
