@@ -36619,3 +36619,7 @@
 342272@bash
 342273@bash
 342274@bash
+342280@zsh
+342286@unknown
+342287@unknown
+342288@unknown

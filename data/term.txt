@@ -36619,3 +36619,7 @@
 342272@xterm-color
 342273@xterm
 342274@xterm-color
+342280@xterm-256color
+342286@unknown
+342287@unknown
+342288@unknown
