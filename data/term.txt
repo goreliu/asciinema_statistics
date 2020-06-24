@@ -36933,3 +36933,7 @@
 342796@tmux
 342800@xterm-256color
 342803@xterm-256color
+342813@xterm-256color
+342814@xterm-256color
+342815@xterm-256color
+342818@xterm-256color
