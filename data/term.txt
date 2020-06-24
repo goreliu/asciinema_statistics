@@ -36928,3 +36928,8 @@
 342778@unknown
 342779@unknown
 342781@xterm-256color
+342785@xterm-256color
+342789@tmux
+342796@tmux
+342800@xterm-256color
+342803@xterm-256color
