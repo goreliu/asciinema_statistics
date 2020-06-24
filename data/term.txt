@@ -36610,3 +36610,11 @@
 342201@xterm
 342203@linux
 342215@xterm-256color
+342248@xterm-256color
+342255@xterm-256color
+342260@xterm-256color
+342262@xterm-256color
+342269@xterm-256color
+342270@xterm-256color
+342272@xterm-color
+342273@xterm
