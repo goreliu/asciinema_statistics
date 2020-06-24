@@ -36626,3 +36626,8 @@
 342295@xterm-256color
 342296@xterm-256color
 342299@xterm-256color
+342303@unknown
+342304@unknown
+342305@unknown
+342306@unknown
+342307@unknown
