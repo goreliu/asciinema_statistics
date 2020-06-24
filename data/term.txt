@@ -36903,3 +36903,4 @@
 342640@xterm-256color
 342660@xterm-256color
 342662@xterm-256color
+342694@xterm-256color
