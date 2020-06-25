@@ -36945,3 +36945,4 @@
 342851@rxvt-unicode-256color
 342853@xterm-256color
 342854@xterm-256color
+342861@rxvt-unicode-256color
