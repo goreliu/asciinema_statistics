@@ -36955,3 +36955,4 @@
 343055@unknown
 343057@unknown
 343058@unknown
+343071@xterm-256color
