@@ -36961,3 +36961,6 @@
 343121@xterm-256color
 343123@xterm-256color
 343125@xterm-256color
+343146@xterm-256color
+343151@xterm-256color
+343152@xterm-256color
