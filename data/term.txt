@@ -36958,3 +36958,6 @@
 343071@xterm-256color
 343098@xterm-256color
 343106@xterm-256color
+343121@xterm-256color
+343123@xterm-256color
+343125@xterm-256color
