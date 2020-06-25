@@ -36956,3 +36956,5 @@
 343057@unknown
 343058@unknown
 343071@bash
+343098@zsh
+343106@bash

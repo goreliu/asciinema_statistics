@@ -36956,3 +36956,5 @@
 343057@unknown
 343058@unknown
 343071@xterm-256color
+343098@xterm-256color
+343106@xterm-256color
