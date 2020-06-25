@@ -36942,3 +36942,6 @@
 342828@screen-256color
 342832@xterm-256color
 342834@tmux
+342851@rxvt-unicode-256color
+342853@xterm-256color
+342854@xterm-256color
