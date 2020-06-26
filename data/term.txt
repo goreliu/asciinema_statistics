@@ -36986,3 +36986,6 @@
 343374@xterm-256color
 343377@xterm-256color
 343380@rxvt-unicode-256color
+343392@xterm-256color
+343399@xterm-256color
+343400@xterm-256color
