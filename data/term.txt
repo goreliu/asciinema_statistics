@@ -36982,3 +36982,7 @@
 343348@alacritty
 343353@xterm
 343356@xterm-256color
+343372@xterm-256color
+343374@xterm-256color
+343377@xterm-256color
+343380@rxvt-unicode-256color
