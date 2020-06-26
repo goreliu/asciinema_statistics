@@ -36980,3 +36980,5 @@
 343314@screen-256color
 343330@xterm-256color
 343348@alacritty
+343353@xterm
+343356@xterm-256color
