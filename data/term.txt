@@ -36991,3 +36991,5 @@
 343400@xterm-256color
 343404@xterm-256color
 343411@xterm-256color
+343414@xterm-256color
+343415@xterm-256color
