@@ -37005,3 +37005,4 @@
 343564@xterm-color
 343568@xterm-256color
 343572@xterm-256color
+343588@xterm-256color
