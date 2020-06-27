@@ -37002,3 +37002,6 @@
 343504@xterm-256color
 343516@unknown
 343525@xterm-256color
+343564@xterm-color
+343568@xterm-256color
+343572@xterm-256color
