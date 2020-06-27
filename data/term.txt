@@ -37019,3 +37019,4 @@
 343634@unknown
 343641@xterm-256color
 343653@xterm-256color
+343655@xterm-256color
