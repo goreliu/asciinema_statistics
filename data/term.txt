@@ -37062,3 +37062,11 @@
 343829@xterm-256color
 343833@unknown
 343834@unknown
+343835@unknown
+343836@unknown
+343837@unknown
+343838@unknown
+343841@unknown
+343842@unknown
+343843@unknown
+343844@unknown
