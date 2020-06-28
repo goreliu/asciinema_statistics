@@ -37070,3 +37070,5 @@
 343842@unknown
 343843@unknown
 343844@unknown
+343847@xterm-256color
+343851@xterm
