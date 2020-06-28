@@ -37020,3 +37020,4 @@
 343641@xterm-256color
 343653@xterm-256color
 343655@xterm-256color
+343668@screen-256color
