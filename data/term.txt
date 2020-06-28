@@ -37021,3 +37021,4 @@
 343653@xterm-256color
 343655@xterm-256color
 343668@screen-256color
+343705@xterm
