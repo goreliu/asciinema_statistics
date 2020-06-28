@@ -37052,3 +37052,13 @@
 343814@unknown
 343815@unknown
 343816@unknown
+343822@xterm-256color
+343823@xterm-256color
+343824@unknown
+343825@unknown
+343826@unknown
+343827@unknown
+343828@unknown
+343829@xterm-256color
+343833@unknown
+343834@unknown
