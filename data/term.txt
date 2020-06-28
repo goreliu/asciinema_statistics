@@ -37047,3 +37047,4 @@
 343745@xterm-256color
 343751@st-256color
 343762@xterm-256color
+343794@xterm-256color
