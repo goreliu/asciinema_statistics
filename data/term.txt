@@ -37101,3 +37101,5 @@
 343984@unknown
 344013@xterm-256color
 344016@xterm-256color
+344032@xterm-256color
+344041@xterm-256color
