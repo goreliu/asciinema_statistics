@@ -37078,3 +37078,10 @@
 343903@tmux-256color
 343938@xterm-256color
 343939@screen-256color
+343944@xterm-256color
+343949@unknown
+343950@unknown
+343951@unknown
+343952@unknown
+343953@unknown
+343954@unknown

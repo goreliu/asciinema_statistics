@@ -37078,3 +37078,10 @@
 343903@bash
 343938@zsh
 343939@bash
+343944@zsh
+343949@unknown
+343950@unknown
+343951@unknown
+343952@unknown
+343953@unknown
+343954@unknown
