@@ -37105,3 +37105,6 @@
 344041@xterm-256color
 344044@xterm-256color
 344052@xterm-256color
+344056@xterm-256color
+344059@xterm-256color
+344078@xterm-256color
