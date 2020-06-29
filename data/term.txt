@@ -37076,3 +37076,5 @@
 343895@tmux-256color
 343896@xterm-256color
 343903@tmux-256color
+343938@xterm-256color
+343939@screen-256color
