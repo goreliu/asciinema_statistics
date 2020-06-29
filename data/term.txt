@@ -37103,3 +37103,5 @@
 344016@xterm-256color
 344032@xterm-256color
 344041@xterm-256color
+344044@xterm-256color
+344052@xterm-256color
