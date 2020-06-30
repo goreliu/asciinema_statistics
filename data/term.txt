@@ -37117,3 +37117,4 @@
 344164@rxvt-256color
 344165@rxvt-256color
 344184@xterm
+344216@xterm-256color
