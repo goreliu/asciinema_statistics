@@ -37111,6 +37111,7 @@
 344097@xterm-256color
 344101@xterm-256color
 344107@unknown
+344110@xterm-256color
 344113@xterm-256color
 344114@screen-256color
 344120@xterm-256color
@@ -37120,3 +37121,4 @@
 344216@xterm-256color
 344255@xterm-256color
 344274@xterm-256color
+344280@xterm-256color
