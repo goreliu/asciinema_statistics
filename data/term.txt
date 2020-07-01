@@ -37158,3 +37158,7 @@
 344522@xterm-256color
 344523@xterm-256color
 344525@xterm-256color
+344558@xterm-256color
+344562@screen
+344575@xterm-256color
+344578@screen
