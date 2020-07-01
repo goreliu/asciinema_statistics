@@ -37134,3 +37134,11 @@
 344399@xterm-256color
 344422@xterm-256color
 344424@xterm-256color
+344430@xterm-256color
+344433@xterm-256color
+344437@xterm-256color
+344438@xterm-256color
+344440@xterm-256color
+344442@xterm-256color
+344444@xterm-256color
+344445@xterm-256color
