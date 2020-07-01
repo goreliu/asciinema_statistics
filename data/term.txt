@@ -37153,3 +37153,8 @@
 344505@xterm-256color
 344506@xterm-256color
 344507@xterm-256color
+344509@xterm-256color
+344520@xterm-256color
+344522@xterm-256color
+344523@xterm-256color
+344525@xterm-256color
