@@ -37144,5 +37144,12 @@
 344445@xterm-256color
 344462@xterm-256color
 344463@rxvt-unicode-256color
+344470@xterm-256color
 344481@xterm-256color
 344483@xterm-256color
+344484@xterm-256color
+344494@xterm
+344504@xterm
+344505@xterm-256color
+344506@xterm-256color
+344507@xterm-256color
