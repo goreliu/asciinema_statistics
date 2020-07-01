@@ -37169,3 +37169,8 @@
 344670@xterm-256color
 344671@xterm-256color
 344674@xterm-256color
+344675@xterm-256color
+344679@xterm-256color
+344684@xterm-256color
+344688@xterm-256color
+344693@xterm-256color
