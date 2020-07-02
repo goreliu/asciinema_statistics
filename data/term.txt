@@ -37174,3 +37174,5 @@
 344684@xterm-256color
 344688@xterm-256color
 344693@xterm-256color
+344705@xterm-256color
+344708@xterm-256color
