@@ -37190,3 +37190,4 @@
 345042@xterm-256color
 345043@xterm-256color
 345059@xterm-256color
+345060@xterm-256color
