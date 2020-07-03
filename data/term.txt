@@ -37191,3 +37191,5 @@
 345043@xterm-256color
 345059@xterm-256color
 345060@xterm-256color
+345066@xterm-256color
+345076@xterm-256color
