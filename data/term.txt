@@ -37204,3 +37204,7 @@
 345197@xterm-256color
 345204@xterm-256color
 345209@screen
+345220@xterm-256color
+345223@xterm-256color
+345224@xterm-256color
+345225@xterm-256color
