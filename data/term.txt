@@ -37208,3 +37208,6 @@
 345223@xterm-256color
 345224@xterm-256color
 345225@xterm-256color
+345233@xterm-256color
+345234@xterm-256color
+345238@xterm-256color
