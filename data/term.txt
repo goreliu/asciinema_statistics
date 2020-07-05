@@ -37225,3 +37225,5 @@
 345357@xterm-256color
 345366@xterm-256color
 345404@xterm-256color
+345406@xterm-256color
+345407@xterm-256color
