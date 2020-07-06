@@ -37246,3 +37246,5 @@
 345564@xterm-256color
 345567@screen-256color
 345568@xterm-256color
+345569@screen-256color
+345571@screen.xterm-256color
