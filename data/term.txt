@@ -37252,3 +37252,6 @@
 345593@xterm-256color
 345604@xterm-256color
 345607@screen.xterm-256color
+345610@screen.xterm-256color
+345615@xterm-256color
+345618@xterm-256color
