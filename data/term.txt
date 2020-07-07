@@ -37268,3 +37268,8 @@
 345776@xterm-256color
 345790@xterm-256color
 345797@xterm-256color
+345807@unknown
+345808@unknown
+345810@unknown
+345811@unknown
+345812@xterm-256color
