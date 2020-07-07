@@ -37278,3 +37278,6 @@
 345847@xterm-256color
 345848@xterm-256color
 345860@xterm-256color
+345888@xterm-256color
+345893@xterm-256color
+345894@xterm-256color
