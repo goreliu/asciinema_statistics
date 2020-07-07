@@ -37290,3 +37290,8 @@
 345974@xterm-256color
 345978@screen
 345982@screen
+345994@screen
+345996@screen-256color
+345997@xterm-256color
+345999@xterm-256color
+346002@xterm-256color
