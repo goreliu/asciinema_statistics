@@ -37314,3 +37314,4 @@
 346141@xterm-256color
 346158@xterm-256color
 346197@xterm-256color
+346220@alacritty
