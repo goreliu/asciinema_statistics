@@ -37305,3 +37305,5 @@
 346068@xterm-256color
 346077@screen-256color
 346079@xterm-256color
+346088@xterm-256color
+346089@xterm-256color
