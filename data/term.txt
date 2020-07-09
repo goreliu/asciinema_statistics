@@ -37323,3 +37323,6 @@
 346365@xterm-256color
 346370@xterm-256color
 346371@xterm-256color
+346380@xterm-256color
+346402@screen
+346406@xterm-256color
