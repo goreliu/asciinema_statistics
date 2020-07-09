@@ -37320,3 +37320,6 @@
 346346@xterm-256color
 346356@xterm-256color
 346357@xterm-256color
+346365@xterm-256color
+346370@xterm-256color
+346371@xterm-256color
