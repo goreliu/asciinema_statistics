@@ -37318,3 +37318,5 @@
 346261@xterm-256color
 346277@xterm-256color
 346346@xterm-256color
+346356@xterm-256color
+346357@xterm-256color
