@@ -37345,3 +37345,5 @@
 346541@xterm-256color
 346573@xterm-256color
 346576@xterm-256color
+346585@xterm-256color
+346588@xterm-256color
