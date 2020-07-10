@@ -37360,3 +37360,4 @@
 346646@xterm-256color
 346649@xterm-256color
 346654@xterm-256color
+346662@xterm
