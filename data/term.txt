@@ -37382,3 +37382,5 @@
 346864@xterm-256color
 346865@xterm-256color
 346866@xterm-256color
+346867@xterm-256color
+346868@xterm-256color
