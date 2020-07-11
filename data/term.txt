@@ -37375,3 +37375,4 @@
 346814@xterm-256color
 346819@xterm-256color
 346822@xterm-256color
+346824@xterm-256color
