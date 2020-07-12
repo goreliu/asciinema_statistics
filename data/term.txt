@@ -37388,3 +37388,6 @@
 346882@xterm-256color
 346914@xterm-256color
 346930@screen-256color
+346970@xterm-256color
+346975@xterm-256color
+346976@xterm-256color
