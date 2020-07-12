@@ -37396,3 +37396,5 @@
 346988@xterm-256color
 346994@xterm-256color
 347030@xterm-256color
+347048@xterm-256color
+347053@screen-256color
