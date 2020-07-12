@@ -37400,3 +37400,5 @@
 347053@screen-256color
 347071@st-256color
 347072@st-256color
+347098@xterm-256color
+347099@xterm-256color
