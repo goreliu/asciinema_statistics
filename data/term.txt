@@ -37398,3 +37398,5 @@
 347030@xterm-256color
 347048@xterm-256color
 347053@screen-256color
+347071@st-256color
+347072@st-256color
