@@ -37403,3 +37403,5 @@
 347098@xterm-256color
 347099@xterm-256color
 347103@xterm-256color
+347120@xterm-256color
+347122@xterm-256color
