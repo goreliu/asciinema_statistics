@@ -37414,3 +37414,6 @@
 347204@xterm-256color
 347214@screen-256color
 347215@xterm-256color
+347216@xterm-256color
+347218@xterm-256color
+347223@xterm-256color
