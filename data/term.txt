@@ -37411,3 +37411,4 @@
 347167@xterm-256color
 347180@st-256color
 347181@screen-256color
+347204@xterm-256color
