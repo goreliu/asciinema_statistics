@@ -37408,3 +37408,4 @@
 347140@xterm-256color
 347143@xterm-256color
 347146@xterm-256color
+347167@xterm-256color
