@@ -37437,3 +37437,5 @@
 347413@xterm-256color
 347417@xterm-256color
 347418@xterm-256color
+347430@xterm-color
+347434@xterm-256color
