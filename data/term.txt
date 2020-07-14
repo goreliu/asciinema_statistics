@@ -37417,6 +37417,7 @@
 347216@xterm-256color
 347218@xterm-256color
 347223@xterm-256color
+347225@xterm-256color
 347234@screen-256color
 347236@xterm-256color
 347262@xterm
