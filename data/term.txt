@@ -37421,3 +37421,5 @@
 347236@xterm-256color
 347262@xterm
 347281@xterm
+347290@xterm-256color
+347295@xterm-256color
