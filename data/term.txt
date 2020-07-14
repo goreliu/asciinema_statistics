@@ -37426,3 +37426,6 @@
 347295@xterm-256color
 347300@screen-256color
 347320@xterm-256color
+347367@xterm-256color
+347370@xterm-256color
+347372@xterm-256color
