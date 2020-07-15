@@ -37449,3 +37449,6 @@
 347491@xterm-256color
 347513@xterm-256color
 347532@xterm-256color
+347570@xterm-256color
+347571@xterm-256color
+347573@xterm-256color
