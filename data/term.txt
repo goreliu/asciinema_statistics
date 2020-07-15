@@ -37452,3 +37452,4 @@
 347570@xterm-256color
 347571@xterm-256color
 347573@xterm-256color
+347600@rxvt-unicode-256color
