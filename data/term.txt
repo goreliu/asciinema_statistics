@@ -37462,3 +37462,4 @@
 347702@xterm-256color
 347706@xterm-256color
 347708@xterm
+347732@xterm
