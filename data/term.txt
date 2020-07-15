@@ -37468,3 +37468,6 @@
 347764@xterm-256color
 347766@xterm-256color
 347769@xterm-256color
+347774@xterm-256color
+347775@xterm-256color
+347776@xterm-256color
