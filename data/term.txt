@@ -37455,3 +37455,5 @@
 347600@rxvt-unicode-256color
 347611@xterm-256color
 347627@xterm-256color
+347649@xterm-256color
+347653@xterm
