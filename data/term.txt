@@ -37482,3 +37482,5 @@
 347871@xterm-256color
 347875@xterm-256color
 347905@xterm-256color
+347911@xterm
+347916@xterm-256color
