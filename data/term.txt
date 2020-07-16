@@ -37471,3 +37471,4 @@
 347774@xterm-256color
 347775@xterm-256color
 347776@xterm-256color
+347780@xterm-256color
