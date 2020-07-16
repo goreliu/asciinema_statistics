@@ -37492,3 +37492,6 @@
 347952@xterm-256color
 347954@xterm-256color
 347955@xterm
+347965@xterm
+347969@xterm-256color
+347978@xterm-256color
