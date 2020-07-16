@@ -37478,3 +37478,5 @@
 347828@screen-256color
 347832@xterm-kitty
 347851@xterm-256color
+347871@xterm-256color
+347875@xterm-256color
