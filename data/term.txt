@@ -37484,3 +37484,4 @@
 347905@xterm-256color
 347911@xterm
 347916@xterm-256color
+347929@xterm-termite
