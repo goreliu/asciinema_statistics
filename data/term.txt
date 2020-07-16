@@ -37485,3 +37485,10 @@
 347911@xterm
 347916@xterm-256color
 347929@xterm-termite
+347945@xterm
+347948@xterm
+347950@xterm-256color
+347951@xterm
+347952@xterm-256color
+347954@xterm-256color
+347955@xterm
