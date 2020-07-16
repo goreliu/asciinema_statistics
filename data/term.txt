@@ -37473,3 +37473,6 @@
 347776@xterm-256color
 347780@xterm-256color
 347783@xterm-256color
+347823@xterm-256color
+347824@xterm-256color
+347828@screen-256color
