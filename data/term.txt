@@ -37503,3 +37503,4 @@
 348188@xterm-256color
 348189@xterm-256color
 348193@xterm-256color
+348196@xterm-256color
