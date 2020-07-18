@@ -37513,3 +37513,4 @@
 348257@xterm-256color
 348270@xterm-termite
 348274@xterm-256color
+348290@screen-256color
