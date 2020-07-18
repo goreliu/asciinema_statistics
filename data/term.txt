@@ -37515,3 +37515,8 @@
 348274@xterm-256color
 348290@screen-256color
 348295@xterm-256color
+348314@xterm-256color
+348315@xterm-256color
+348316@xterm-256color
+348318@xterm-256color
+348319@xterm-256color
