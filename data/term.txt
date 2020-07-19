@@ -37533,3 +37533,5 @@
 348407@xterm-256color
 348434@xterm-256color
 348439@xterm-256color
+348466@screen-256color
+348467@screen-256color
