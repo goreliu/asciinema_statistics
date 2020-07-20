@@ -37552,3 +37552,11 @@
 348571@xterm-256color
 348594@xterm
 348609@xterm-256color
+348613@xterm-256color
+348618@xterm-256color
+348621@xterm-256color
+348622@xterm-256color
+348623@xterm-256color
+348626@xterm-256color
+348627@xterm-256color
+348635@xterm-256color
