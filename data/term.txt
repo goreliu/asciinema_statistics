@@ -37540,3 +37540,4 @@
 348474@xterm-256color
 348477@xterm-256color
 348480@xterm-256color
+348495@xterm-256color
