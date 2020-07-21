@@ -37578,3 +37578,5 @@
 348772@unknown
 348778@unknown
 348784@zsh
+348804@fish
+348812@bash
