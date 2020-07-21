@@ -37580,3 +37580,6 @@
 348784@xterm-256color
 348804@xterm-256color
 348812@xterm
+348860@rxvt-256color
+348866@xterm-256color
+348867@xterm-256color
