@@ -37583,3 +37583,7 @@
 348860@rxvt-256color
 348866@xterm-256color
 348867@xterm-256color
+348881@xterm-256color
+348882@screen-256color
+348888@xterm-256color
+348890@screen-256color
