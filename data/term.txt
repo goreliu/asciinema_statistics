@@ -37564,3 +37564,5 @@
 348652@xterm-256color
 348653@xterm-256color
 348661@xterm-256color
+348665@xterm-256color
+348667@xterm-256color
