@@ -37598,3 +37598,7 @@
 348953@xterm-256color
 348970@xterm-256color
 348971@xterm-256color
+348974@xterm-256color
+348977@xterm-256color
+348980@xterm-256color
+348984@xterm-256color
