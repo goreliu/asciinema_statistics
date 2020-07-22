@@ -37585,11 +37585,14 @@
 348867@xterm-256color
 348881@xterm-256color
 348882@screen-256color
+348883@xterm-256color
 348888@xterm-256color
 348890@screen-256color
 348913@xterm-256color
 348924@xterm-256color
 348927@xterm-256color
 348933@xterm-256color
+348934@xterm-256color
 348937@xterm-256color
 348938@xterm-256color
+348953@xterm-256color
