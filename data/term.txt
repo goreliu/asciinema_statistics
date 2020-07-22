@@ -37605,3 +37605,4 @@
 348997@xterm-256color
 349040@xterm-256color
 349041@xterm-256color
+349044@st-256color
