@@ -37588,3 +37588,5 @@
 348888@xterm-256color
 348890@screen-256color
 348913@xterm-256color
+348924@xterm-256color
+348927@xterm-256color
