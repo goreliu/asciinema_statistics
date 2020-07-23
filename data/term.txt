@@ -37638,4 +37638,5 @@
 349249@xterm-256color
 349250@xterm-256color
 349256@xterm-256color
+349283@tmux-256color
 349284@xterm-256color
