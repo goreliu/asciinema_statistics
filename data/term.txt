@@ -37625,3 +37625,13 @@
 349194@rxvt-256color
 349217@rxvt-256color
 349224@rxvt-256color
+349231@xterm-256color
+349235@xterm-256color
+349236@xterm-256color
+349237@xterm
+349238@xterm
+349240@xterm-256color
+349241@xterm-256color
+349242@xterm-256color
+349243@xterm-256color
+349246@xterm-256color
