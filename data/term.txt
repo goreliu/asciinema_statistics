@@ -37613,3 +37613,5 @@
 349100@xterm-256color
 349105@xterm-256color
 349139@xterm-256color
+349153@Command Prompt
+349158@xterm-256color
