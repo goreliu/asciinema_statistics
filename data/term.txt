@@ -37657,3 +37657,8 @@
 349499@xterm-256color
 349500@xterm-256color
 349501@xterm-256color
+349502@xterm-256color
+349503@xterm-256color
+349504@xterm-256color
+349505@xterm-256color
+349510@xterm-256color
