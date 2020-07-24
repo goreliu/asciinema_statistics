@@ -37652,3 +37652,8 @@
 349424@xterm-256color
 349438@xterm-256color
 349470@xterm-kitty
+349488@xterm-256color
+349498@xterm-256color
+349499@xterm-256color
+349500@xterm-256color
+349501@xterm-256color
