@@ -37651,3 +37651,4 @@
 349418@tmux-256color
 349424@xterm-256color
 349438@xterm-256color
+349470@xterm-kitty
