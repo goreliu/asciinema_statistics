@@ -37670,3 +37670,8 @@
 349595@xterm-256color
 349597@xterm-256color
 349610@xterm-256color
+349632@xterm-256color
+349653@xterm-256color
+349654@xterm-256color
+349655@xterm-256color
+349657@xterm-256color
