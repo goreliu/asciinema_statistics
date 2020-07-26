@@ -37683,3 +37683,4 @@
 349727@st-256color
 349728@tmux-256color-italic
 349737@xterm-256color
+349756@xterm-256color
