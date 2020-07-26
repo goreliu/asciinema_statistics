@@ -37687,3 +37687,5 @@
 349761@alacritty
 349762@xterm-256color
 349763@xterm-256color
+349792@xterm-256color
+349793@xterm-256color
