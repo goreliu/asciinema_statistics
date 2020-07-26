@@ -37681,3 +37681,4 @@
 349717@xterm-256color
 349721@screen-256color
 349727@st-256color
+349728@tmux-256color-italic
