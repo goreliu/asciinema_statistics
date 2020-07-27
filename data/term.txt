@@ -37711,3 +37711,8 @@
 349912@screen-256color
 349938@alacritty
 349941@xterm-256color
+349958@xterm-256color
+349968@xterm-256color
+349978@xterm-256color
+349979@xterm-256color
+349980@xterm-256color
