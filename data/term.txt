@@ -37708,3 +37708,4 @@
 349904@alacritty
 349905@xterm-256color
 349907@alacritty
+349912@screen-256color
