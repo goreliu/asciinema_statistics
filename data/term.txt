@@ -37727,3 +37727,7 @@
 350031@xterm-256color
 350032@xterm-256color
 350033@screen-256color
+350045@xterm-256color
+350046@xterm-256color
+350047@xterm-256color
+350048@xterm-256color
