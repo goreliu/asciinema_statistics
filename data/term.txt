@@ -37705,3 +37705,6 @@
 349859@xterm-256color
 349868@xterm-256color
 349892@xterm-256color
+349904@alacritty
+349905@xterm-256color
+349907@alacritty
