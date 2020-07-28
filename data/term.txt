@@ -37732,3 +37732,5 @@
 350047@xterm-256color
 350048@xterm-256color
 350071@xterm-256color
+350101@xterm-256color
+350104@xterm-256color
