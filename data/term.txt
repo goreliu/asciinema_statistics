@@ -37750,3 +37750,8 @@
 350235@xterm-256color
 350245@xterm-256color
 350252@xterm-256color
+350262@xterm-256color
+350263@xterm-256color
+350264@xterm-256color
+350265@xterm-256color
+350266@xterm-256color
