@@ -37740,3 +37740,8 @@
 350170@xterm-256color
 350189@xterm-256color
 350207@screen
+350211@screen
+350213@xterm-256color
+350218@xterm-256color
+350219@xterm-256color
+350222@xterm-256color
