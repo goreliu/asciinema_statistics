@@ -37881,3 +37881,6 @@
 351621@xterm-256color
 351624@xterm-256color
 351665@xterm-256color
+351670@xterm-256color
+351671@xterm-256color
+351674@xterm-256color
