@@ -37894,3 +37894,5 @@
 351719@xterm-256color
 351723@xterm-256color
 351724@xterm-256color
+351733@xterm-256color
+351742@xterm-256color
