@@ -37887,3 +37887,4 @@
 351678@xterm-256color
 351682@screen
 351683@xterm-256color
+351692@xterm-256color
