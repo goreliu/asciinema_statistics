@@ -37902,3 +37902,4 @@
 351777@xterm-256color
 351779@xterm-256color
 351781@xterm
+351814@rxvt-unicode-256color
