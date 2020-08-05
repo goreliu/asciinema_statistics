@@ -37884,3 +37884,6 @@
 351670@xterm-256color
 351671@xterm-256color
 351674@xterm-256color
+351678@xterm-256color
+351682@screen
+351683@xterm-256color
