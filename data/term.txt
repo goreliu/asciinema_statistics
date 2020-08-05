@@ -37898,3 +37898,5 @@
 351742@xterm-256color
 351758@xterm-256color
 351763@alacritty
+351771@xterm-256color
+351777@xterm-256color
