@@ -37909,3 +37909,5 @@
 351897@xterm-256color
 351899@xterm-256color
 351916@xterm-256color
+351917@xterm-256color
+351920@xterm-256color
