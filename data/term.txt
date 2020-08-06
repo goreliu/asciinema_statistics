@@ -37911,3 +37911,9 @@
 351916@xterm-256color
 351917@xterm-256color
 351920@xterm-256color
+351944@screen
+351945@xterm-256color
+351946@screen
+351947@xterm-256color
+351948@xterm-256color
+351949@xterm-256color
