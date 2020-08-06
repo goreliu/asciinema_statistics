@@ -37908,3 +37908,4 @@
 351892@alacritty
 351897@xterm-256color
 351899@xterm-256color
+351916@xterm-256color
