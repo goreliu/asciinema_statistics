@@ -37920,3 +37920,5 @@
 351949@xterm-256color
 351950@xterm-256color
 351953@xterm-256color
+351968@rxvt-unicode-256color
+351969@xterm-256color
