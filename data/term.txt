@@ -37905,3 +37905,4 @@
 351814@rxvt-unicode-256color
 351880@xterm-256color
 351888@xterm-256color
+351892@alacritty
