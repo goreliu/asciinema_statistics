@@ -37935,3 +37935,4 @@
 352107@xterm
 352108@xterm
 352109@xterm-256color
+352138@screen-256color
