@@ -37936,3 +37936,6 @@
 352108@xterm
 352109@xterm-256color
 352138@screen-256color
+352147@linux
+352154@xterm
+352163@xterm-256color
