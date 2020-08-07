@@ -37932,6 +37932,7 @@
 352037@xterm-256color
 352041@xterm-256color
 352061@xterm-256color
+352092@xterm-256color
 352107@xterm
 352108@xterm
 352109@xterm-256color
@@ -37942,3 +37943,4 @@
 352167@xterm
 352181@xterm-256color
 352191@xterm-256color
+352220@xterm-256color
