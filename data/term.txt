@@ -37947,3 +37947,6 @@
 352220@xterm-256color
 352223@xterm-256color
 352227@xterm-256color
+352231@xterm-256color
+352232@xterm-256color
+352234@xterm-256color
