@@ -37963,3 +37963,5 @@
 352365@xterm-256color
 352370@xterm-kitty
 352380@xterm-256color
+352448@xterm-256color
+352451@screen
