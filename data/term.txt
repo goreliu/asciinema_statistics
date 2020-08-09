@@ -37961,4 +37961,5 @@
 352339@xterm-256color
 352347@xterm-256color
 352365@xterm-256color
+352370@xterm-kitty
 352380@xterm-256color
