@@ -37971,3 +37971,4 @@
 352461@xterm-256color
 352503@xterm-256color
 352507@xterm-256color
+352517@xterm-kitty
