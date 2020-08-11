@@ -37990,3 +37990,6 @@
 352680@xterm-256color
 352690@xterm-256color
 352707@screen-256color
+352715@xterm-256color
+352723@xterm-256color
+352732@xterm-256color
