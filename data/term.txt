@@ -38001,3 +38001,5 @@
 352771@xterm-256color
 352772@xterm-256color
 352774@xterm-256color
+352784@screen-256color
+352802@xterm-256color
