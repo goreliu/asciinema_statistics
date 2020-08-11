@@ -38012,3 +38012,4 @@
 352853@screen-256color
 352864@xterm-256color
 352867@xterm-256color
+352874@alacritty
