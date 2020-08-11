@@ -38010,3 +38010,5 @@
 352844@xterm
 352845@xterm-256color
 352853@screen-256color
+352864@xterm-256color
+352867@xterm-256color
