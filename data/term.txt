@@ -38013,3 +38013,6 @@
 352864@xterm-256color
 352867@xterm-256color
 352874@alacritty
+352899@rxvt-unicode-256color
+352900@xterm-256color
+352901@xterm-256color
