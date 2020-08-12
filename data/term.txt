@@ -38035,3 +38035,5 @@
 353013@alacritty
 353019@alacritty
 353027@rxvt-unicode-256color
+353050@xterm
+353055@xterm-kitty
