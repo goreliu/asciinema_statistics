@@ -38034,3 +38034,4 @@
 352992@xterm-256color
 353013@alacritty
 353019@alacritty
+353027@rxvt-unicode-256color
