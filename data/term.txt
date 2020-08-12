@@ -38038,3 +38038,4 @@
 353050@xterm
 353055@xterm-kitty
 353073@xterm-256color
+353084@xterm-256color
