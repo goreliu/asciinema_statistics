@@ -38019,3 +38019,5 @@
 352903@xterm-256color
 352904@xterm-256color
 352917@xterm-256color
+352933@xterm-256color
+352934@xterm-256color
