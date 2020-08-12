@@ -38028,3 +38028,5 @@
 352945@xterm-256color
 352951@xterm-256color
 352953@xterm-256color
+352973@screen-256color
+352978@xterm-256color
