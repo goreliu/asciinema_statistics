@@ -38048,3 +38048,5 @@
 353174@xterm-256color
 353181@xterm
 353184@screen
+353199@xterm-256color
+353200@xterm-256color
