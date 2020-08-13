@@ -38043,3 +38043,6 @@
 353107@screen-256color
 353133@xterm-256color
 353148@xterm-256color
+353168@xterm-256color
+353171@xterm-256color
+353174@xterm-256color
