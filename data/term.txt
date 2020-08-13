@@ -38051,3 +38051,4 @@
 353199@xterm-256color
 353200@xterm-256color
 353208@xterm-256color
+353226@xterm-256color
