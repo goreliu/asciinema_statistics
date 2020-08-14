@@ -38071,3 +38071,5 @@
 353341@screen
 353383@xterm
 353387@xterm-256color
+353388@xterm-256color
+353390@xterm-256color
