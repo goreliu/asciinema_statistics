@@ -38069,3 +38069,4 @@
 353339@xterm-256color
 353340@alacritty
 353341@screen
+353383@xterm
