@@ -38063,3 +38063,4 @@
 353289@xterm-256color
 353291@xterm-256color
 353295@xterm-256color
+353302@xterm
