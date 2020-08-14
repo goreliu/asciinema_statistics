@@ -38066,3 +38066,6 @@
 353302@xterm
 353305@xterm-256color
 353328@xterm-256color
+353339@xterm-256color
+353340@alacritty
+353341@screen
