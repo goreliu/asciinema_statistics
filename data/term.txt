@@ -38090,3 +38090,4 @@
 353507@xterm-256color
 353518@xterm-256color
 353521@xterm-256color
+353530@xterm-256color
