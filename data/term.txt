@@ -38091,3 +38091,5 @@
 353518@xterm-256color
 353521@xterm-256color
 353530@xterm-256color
+353532@xterm
+353533@xterm-256color
