@@ -38107,3 +38107,5 @@
 353666@xterm-256color
 353679@xterm-256color
 353688@xterm-256color
+353689@xterm-256color
+353690@xterm-256color
