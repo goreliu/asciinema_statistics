@@ -38097,3 +38097,4 @@
 353573@xterm-256color
 353586@xterm-256color
 353604@xterm-256color
+353627@xterm
