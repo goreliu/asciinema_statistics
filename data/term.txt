@@ -38123,3 +38123,5 @@
 353847@xterm-256color
 353857@xterm-256color
 353884@xterm-256color
+353897@xterm-256color
+353898@xterm-256color
