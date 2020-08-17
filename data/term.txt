@@ -38112,3 +38112,4 @@
 353689@xterm-256color
 353690@xterm-256color
 353693@xterm-kitty
+353759@xterm-256color
