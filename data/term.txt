@@ -38117,3 +38117,6 @@
 353793@xterm-256color
 353811@xterm-256color
 353815@xterm-256color
+353833@screen
+353835@xterm-256color
+353843@unknown
