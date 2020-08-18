@@ -38130,3 +38130,5 @@
 353905@xterm-256color
 353906@xterm-256color
 353951@xterm-256color
+353963@xterm-256color
+353967@xterm-kitty
