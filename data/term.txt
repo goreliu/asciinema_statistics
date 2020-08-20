@@ -38191,3 +38191,5 @@
 354552@xterm-256color
 354556@xterm-256color
 354557@xterm-256color
+354585@xterm-256color
+354589@xterm-256color
