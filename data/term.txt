@@ -38193,3 +38193,4 @@
 354557@xterm-256color
 354585@xterm-256color
 354589@xterm-256color
+354593@xterm-256color
