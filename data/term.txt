@@ -38188,3 +38188,6 @@
 354498@xterm-256color
 354520@xterm
 354534@xterm-256color
+354552@xterm-256color
+354556@xterm-256color
+354557@xterm-256color
