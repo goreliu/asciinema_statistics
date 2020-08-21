@@ -38202,3 +38202,5 @@
 354704@xterm-256color
 354706@tmux-256color
 354729@xterm-256color
+354736@xterm-256color
+354741@xterm-256color
