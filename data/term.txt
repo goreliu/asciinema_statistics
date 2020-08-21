@@ -38206,3 +38206,5 @@
 354741@xterm-256color
 354758@xterm-256color
 354759@rxvt-unicode-256color
+354784@xterm-256color
+354787@xterm-256color
