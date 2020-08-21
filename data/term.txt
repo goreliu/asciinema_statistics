@@ -38209,3 +38209,4 @@
 354784@xterm-256color
 354787@xterm-256color
 354825@rxvt-unicode-256color
+354849@tmux
