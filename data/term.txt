@@ -38205,3 +38205,4 @@
 354736@xterm-256color
 354741@xterm-256color
 354758@xterm-256color
+354759@rxvt-unicode-256color
