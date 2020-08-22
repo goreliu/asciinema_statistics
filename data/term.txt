@@ -38218,3 +38218,7 @@
 354926@xterm-256color
 354929@xterm-256color
 354936@xterm-256color
+354939@xterm-256color
+354942@xterm-256color
+354945@xterm-256color
+354949@xterm-256color
