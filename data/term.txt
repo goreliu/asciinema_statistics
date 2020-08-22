@@ -38210,3 +38210,5 @@
 354787@xterm-256color
 354825@rxvt-unicode-256color
 354849@tmux
+354889@xterm-256color
+354890@xterm-256color
