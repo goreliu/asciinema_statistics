@@ -38235,3 +38235,4 @@
 355011@xterm-256color
 355022@xterm-256color
 355059@xterm-256color
+355069@xterm-256color
