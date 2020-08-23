@@ -38222,6 +38222,7 @@
 354942@xterm-256color
 354945@xterm-256color
 354949@xterm-256color
+354952@xterm-256color
 354960@xterm-256color
 354967@xterm-256color
 354975@xterm-256color
