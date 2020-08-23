@@ -38243,3 +38243,5 @@
 355093@xterm-256color
 355102@alacritty
 355105@screen-256color
+355113@xterm-256color
+355114@xterm-256color
