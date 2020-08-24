@@ -38277,3 +38277,5 @@
 355292@xterm-256color
 355301@xterm-256color
 355303@xterm-256color
+355322@xterm-256color
+355323@xterm-256color
