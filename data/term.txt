@@ -38265,3 +38265,8 @@
 355190@xterm-256color
 355197@xterm-256color
 355232@xterm-256color
+355233@xterm-256color
+355234@xterm-256color
+355235@xterm-256color
+355239@xterm-256color
+355244@xterm-256color
