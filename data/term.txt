@@ -38242,9 +38242,16 @@
 355086@xterm-256color
 355093@xterm-256color
 355102@alacritty
+355103@xterm-256color
 355105@screen-256color
+355108@xterm
 355113@xterm-256color
 355114@xterm-256color
+355116@xterm-256color
+355118@xterm-256color
 355119@xterm-256color
+355121@xterm-256color
+355124@xterm-256color
+355125@xterm-256color
 355144@xterm-256color
 355147@xterm-256color
