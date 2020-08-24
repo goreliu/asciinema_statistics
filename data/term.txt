@@ -38273,3 +38273,4 @@
 355246@xterm-256color
 355252@xterm-256color
 355266@xterm-256color
+355282@screen
