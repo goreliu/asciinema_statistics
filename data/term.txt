@@ -38305,3 +38305,5 @@
 355583@xterm-256color
 355590@xterm-256color
 355591@xterm-256color
+355593@xterm-256color
+355598@xterm-256color
