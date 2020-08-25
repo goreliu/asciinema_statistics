@@ -38296,3 +38296,5 @@
 355485@xterm-256color
 355503@xterm-256color
 355506@screen-256color
+355519@xterm-256color
+355520@xterm-256color
