@@ -38289,3 +38289,8 @@
 355457@xterm-256color
 355458@xterm
 355464@xterm-256color
+355470@xterm-256color
+355474@xterm-256color
+355483@xterm-256color
+355484@xterm-256color
+355485@xterm-256color
