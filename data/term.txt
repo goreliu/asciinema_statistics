@@ -38298,3 +38298,5 @@
 355506@screen-256color
 355519@xterm-256color
 355520@xterm-256color
+355543@xterm-256color
+355544@xterm
