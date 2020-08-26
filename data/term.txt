@@ -38310,3 +38310,6 @@
 355611@xterm-256color
 355618@xterm-256color
 355631@xterm-256color
+355648@linux
+355651@linux
+355652@xterm
