@@ -38319,3 +38319,4 @@
 355677@xterm-256color
 355684@xterm-256color
 355687@xterm-256color
+355696@xterm-256color
