@@ -38313,3 +38313,4 @@
 355648@linux
 355651@linux
 355652@xterm
+355664@xterm-256color
