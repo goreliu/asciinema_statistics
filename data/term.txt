@@ -38325,3 +38325,5 @@
 356060@xterm-256color
 356079@xterm-256color
 356109@xterm-256color
+356117@xterm-256color
+356119@screen-256color
