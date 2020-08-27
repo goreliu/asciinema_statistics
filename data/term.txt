@@ -38330,3 +38330,4 @@
 356126@xterm-256color
 356128@rxvt-unicode-256color
 356129@xterm-256color
+356139@screen-256color
