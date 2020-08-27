@@ -38336,3 +38336,7 @@
 356159@xterm-256color
 356160@xterm-256color
 356168@xterm-256color
+356189@xterm-256color
+356190@xterm-256color
+356191@xterm-256color
+356192@xterm-256color
