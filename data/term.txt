@@ -38342,3 +38342,5 @@
 356192@xterm-256color
 356203@xterm-256color
 356211@xterm-256color
+356219@xterm-256color
+356225@xterm-256color
