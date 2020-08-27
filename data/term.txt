@@ -38347,3 +38347,5 @@
 356230@xterm-256color
 356231@xterm-256color
 356237@xterm-256color
+356243@xterm-256color
+356288@xterm-256color
