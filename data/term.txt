@@ -38363,3 +38363,9 @@
 356360@xterm-256color
 356361@xterm-256color
 356388@xterm-256color
+356400@xterm-256color
+356402@xterm-256color
+356403@xterm-256color
+356410@xterm
+356415@xterm-256color
+356416@xterm-256color
