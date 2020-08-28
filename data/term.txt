@@ -38372,3 +38372,5 @@
 356426@xterm-256color
 356456@xterm-256color
 356458@screen-256color
+356501@xterm-256color
+356503@xterm-256color
